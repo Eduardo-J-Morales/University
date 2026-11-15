@@ -1,0 +1,25 @@
+ReadSpeaker.q(function () {
+    rspkr.features.dictionary = false;
+    // rspkr.features.dictionary_toolbar = true;
+    // rspkr.features.download = false;
+    rspkr.features.download_player = true;
+    // rspkr.features.enlarge = true;
+    // rspkr.features.loaderplayer = false;
+    // rspkr.features.progressbar = false;
+    //rspkr.features.controlpanel = false;
+    // rspkr.features.seekbar = true;
+    // rspkr.features.skipbuttons = false;
+    // rspkr.features.speedbutton = false;
+    rspkr.features.translation = false;
+    rspkr.features.translation_toolbar = false;
+
+    // rspkr.features.overriden || (rspkr.features.overriden = []);
+    // rspkr.features.overriden.push('dictionary');
+    // rspkr.features.overriden.push('translation');
+
+    // rspkr.features.detachment = true;
+
+    // rspkr.ui.Detach && rspkr.ui.Detach.reinit();
+
+    rspkr.item('ui.toolbar.horizontal', true);
+});

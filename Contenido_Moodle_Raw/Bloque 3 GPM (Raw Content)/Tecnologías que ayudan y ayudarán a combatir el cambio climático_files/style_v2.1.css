@@ -1,0 +1,170 @@
+@font-face {
+    font-family: "BentonSansBBVA";
+    src: url("fonts/BentonSansBBVA-Light.eot?") format("embedded-opentype"), url("fonts/BentonSansBBVA-Light.woff") format("woff"), url("fonts/BentonSansBBVA-Light.svg") format("svg");
+    font-style: normal;
+    font-weight: 400;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: "BentonSansBBVA";
+    src: url("fonts/BentonSansBBVA-Book.eot?") format("embedded-opentype"), url("fonts/BentonSansBBVA-Book.woff") format("woff");
+    font-style: normal;
+    font-weight: 500;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: "BentonSansBBVA";
+    src: url("fonts/BentonSansBBVA-BookItalic.eot?") format("embedded-opentype"), url("fonts/BentonSansBBVA-BookItalic.woff") format("woff"), url("fonts/BentonSansBBVA-BookItalic.svg") format("svg");
+    font-style: italic;
+    font-weight: 500;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: "BentonSansBBVA";
+    src: url("fonts/BentonSansBBVA-Medium.eot?") format("embedded-opentype"), url("fonts/BentonSansBBVA-Medium.woff") format("woff"), url("fonts/BentonSansBBVA-Medium.svg") format("svg");
+    font-style: normal;
+    font-weight: 600;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: "BentonSansBBVA";
+    src: url("fonts/BentonSansBBVA-MediumItalic.eot?") format("embedded-opentype"), url("fonts/BentonSansBBVA-MediumItalic.woff") format("woff"), url("fonts/BentonSansBBVA-MediumItalic.svg") format("svg");
+    font-style: italic;
+    font-weight: 600;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: "BentonSansBBVA";
+    src: url("fonts/BentonSansBBVA-Bold.eot?") format("embedded-opentype"), url("fonts/BentonSansBBVA-Bold.woff") format("woff"), url("fonts/BentonSansBBVA-Bold.svg") format("svg");
+    font-style: normal;
+    font-weight: 700;
+    font-stretch: normal;
+}
+
+body {
+    font-family: BentonSansBBVA, arial, ​tahoma, ​sans-serif;
+    color: #070e46;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: normal;
+    background: transparent;
+    height: auto;
+    width: 100%;
+    margin: 0;
+    position: block !important;
+}
+
+body>div {
+    position: relative;
+    height: auto;
+    width: auto;
+    line-height: normal;
+    margin: 0;
+    position: block;
+}
+
+.companyname {
+    color: #070e46;
+    font-weight: 600;
+}
+
+.last-price {
+    color: #070e46;
+    font-weight: 700;
+    font-size: 12px;
+}
+
+.instrument>div {
+    display: inline-block;
+}
+
+.instrument>div>span {
+    margin-right: 10px;
+}
+
+.positive,
+.negative {
+    color: #070e46;
+    position: relative;
+}
+
+span.companyname-span {
+    color: #001391;
+}
+
+span.companyname-span1 {
+    color: #001391;
+}
+
+span.companyname-span2 {
+    color: #001391;
+}
+
+/*
+.positive:before {
+    content: "";
+	width: 0;
+	height: 0;
+	position: absolute;
+	top: 50%;
+	left: -0.12em;
+	margin-top: -0.4em;
+	border-left: 0.4em solid transparent;
+	border-right: 0.4em solid transparent;
+	border-bottom: 0.7em solid #fff;
+}
+.negative:before {
+    content: "";
+	width: 0;
+	height: 0;
+	position: absolute;
+	top: 50%;
+	left: -0.12em;
+	margin-top: -0.4em;
+	border-left: 0.4em solid transparent;
+	border-right: 0.4em solid transparent;
+	border-top: 0.7em solid #fff;
+}*/
+.positive_changePer,
+.negative_changePer {
+    padding-left: 35px;
+
+}
+
+.negative_changePer {
+    background: url(down.svg);
+    background-position-y: -8.5px;
+    background-repeat: no-repeat;
+    background-size: 30px 30px;
+}
+
+.positive_changePer {
+    background: url(up.svg);
+    background-position-y: -8.5px;
+    background-repeat: no-repeat;
+    background-size: 30px 30px;
+    top: 1px;
+    position: relative;
+}
+
+span.last-span {
+    opacity: 1;
+    font-weight: 500;
+}
+
+span.curr-span {
+    font-weight: 700;
+}
+
+.changechangeper span {
+    font-weight: 700;
+}
+
+span.curr-span {
+    margin-right: 5px !important;
+}

@@ -1,0 +1,76 @@
+.headerLogo {
+    position: relative !important;
+    display: block !important;
+    margin-bottom: 2em;
+}
+.detContHeaderBg img {
+    height: 500px !important;
+    position: relative !important;
+}
+
+/*Formato Podcast*/
+
+.detail_podcast .noImage {
+    height: 100% !important;
+}
+.detail_podcast .noImage .container {
+    position: relative !important;
+    height: 100% !important;
+    margin: 0 !important;
+    top: 0 !important;
+    width: 100% !important;
+    padding-bottom: 0em;
+}
+.detail_podcast .noImage .container .position {
+    width: 100% !important;
+    position: relative !important;
+    padding: 0;
+    margin: 0;
+}
+.detail_podcast .noImage .container .position .detAreaDate .area {
+    padding-left: 15px;
+}
+.detail_podcast .noImage .detContAuthorHeader {
+    display: block !important;
+    position: relative !important;
+    margin: 0em 0em 2em 0em !important;
+    height: 100% !important;
+    padding: 0 !important;
+}
+
+/*Impresion Vertical*/
+@media (orientation: portrait) {
+    /* .detail_article .detContHeader{height: 130vh !important}
+	.detContHeader .container .position{position: relative !important; margin-top: 40em;} */
+
+    /*Formato podcast*/
+    .detail_podcast .noImage {
+        height: 100% !important;
+    }
+}
+
+/*Impresión Hotizontal*/
+@media (orientation: landscape) {
+    .detail_article .detContHeader {
+        height: 100% !important;
+        /* margin-bottom: 25em; */
+    }
+    .detContHeader .container .position {
+        page-break-before: always;
+        margin-top: 0;
+    }
+
+    /*Formato Podcast*/
+    .detail_podcast .detContHeader {
+        height: 100% !important;
+        /* margin-bottom: 25em; */
+    }
+    .detail_podcast .noImage {
+        height: 100% !important;
+        margin-bottom: 0;
+    }
+    .detail_podcast .noImage .container .position {
+        page-break-before: inherit;
+        margin-top: 0;
+    }
+}
