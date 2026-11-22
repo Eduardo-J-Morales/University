@@ -4,8 +4,9 @@
 **Docente:** Prof. Isneidy Contreras  
 **Estudiante:** Eduardo José González Morales  
 **C.I.:** V-28.625.300  
-**Fecha de Elaboración:** 21 de noviembre de 2026  
+**Fecha de Elaboración y Entrega:** 21-22 de noviembre de 2026  
 **Formato de Entrega:** Presentación de diapositivas narrada en video (YouTube) + Texto en línea en Moodle  
+**Estado:** ✅ **ENTREGADO**  
 
 ---
 
@@ -15,7 +16,7 @@
 |---|---|---|:---:|
 | 1 | **Toxicología Industrial** | Definición aplicada al sector secundario, prevención de riesgos laborales y protección ambiental. | 3 |
 | 2 | **Accidente Tóxico o Químico** | Concepto formal (OPS/IUTA), causas (fugas, derrames, fallas de seguridad) e impacto en poblaciones cercanas. | 4 |
-| 3 | **Clasificación de Accidentes Químicos** | Clasificación por tipo de sustancia (peligrosas vs contaminantes/adulterantes) y por volumen/peligrosidad. | 5 |
+| 3 | **Clasificación de Accidentes Químicos** | Clasificación por tipo de sustancia (peligrosas vs contaminantes/adulterantes) y por volumen/peligrosidad liberada. | 5 |
 | 4 | **Factores para Clasificar Accidentes** | Análisis de Dosis (aguda/crónica), Toxicidad intrínseca, Vías de absorción (inhalación, ingestión, dérmica), Riesgo y Susceptibilidad. | 6 |
 | 5 | **Caso Real en Venezuela (< 20 años)** | Fuga masiva de gas cloro en planta potabilizadora El Rincón / Hidrocaribe, Municipio Sotillo, Anzoátegui (6 de septiembre de 2018). 21 intoxicados y 3.000 evacuados. | 7 |
 
@@ -23,7 +24,7 @@
 
 ## 2. Estructura de la Presentación (8 Diapositivas)
 
-1. **Lámina 1 (Portada):** Título general e identificación completa del estudiante (Nombre, C.I., Asignatura, Docente).
+1. **Lámina 1 (Portada):** Título general de Toxicología. *(Nota: Por políticas de privacidad y protección de datos personales de YouTube, los datos de cédula y nombre fueron retirados de la lámina visual pública y consignados exclusivamente en el recuadro de entrega privada en Moodle)*.
 2. **Lámina 2 (Introducción):** Concepto fundamental de Toxicología.
 3. **Lámina 3 (Tema 1):** Toxicología Industrial y seguridad en el trabajo.
 4. **Lámina 4 (Tema 2):** Definición y alcances de un Accidente Tóxico o Químico.
@@ -34,8 +35,9 @@
 
 ---
 
-## 3. Ubicación de Archivos
+## 3. Ubicación de Archivos en el Repositorio
 
-- **Diapositivas:** `TOX/Bloque 1/Actividad 2 - Presentacion/Diapositivas_JPG/` (Slides 1 a 8)
-- **Guion de Voz:** `TOX/Bloque 1/Actividad 2 - Presentacion/Guion_Locucion_Actividad_2.md`
+- **Diapositivas:** `TOX/Bloque 1/Actividad 2 - Presentacion/Diapositivas_JPG/` (Slides 1 a 8 actualizadas)
+- **Audio de Locución:** `TOX/Bloque 1/Actividad 2 - Presentacion/Audio_Narracion_TOX443.mp3`
+- **Guion de Voz:** `TOX/Bloque 1/Actividad 2 - Presentacion/Guion_Locucion_Actividad_2.txt`
 - **Plantilla de Entrega:** `TOX/Bloque 1/Actividad 2 - Presentacion/Entrega_Moodle_Actividad_2_Plantilla.txt`
