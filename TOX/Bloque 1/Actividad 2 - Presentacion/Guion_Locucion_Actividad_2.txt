@@ -1,0 +1,126 @@
+GUION COMPLETO PARA GRABACIÓN
+Actividad 2: "No fue tu culpa" | Toxicología (TOX-443)
+Estudiante: Eduardo José González Morales
+C.I.: V-28.625.300
+Docente: Prof. Isneidy Contreras | IUTA
+
+============================================================
+[SLIDE 1 — Portada]
+============================================================
+Texto en pantalla:
+- Título: No fue tu culpa: Accidentes Tóxicos y Químicos
+- Subtítulo: Toxicología Industrial | Bloque 1
+- Eduardo José González Morales | C.I.: V-28.625.300
+- Toxicología (TOX-443) | Prof. Isneidy Contreras | IUTA
+
+Guion de voz:
+"Hola, mi nombre es Eduardo González, cédula de identidad 28.625.300, estudiante de Toxicología TOX-443 con la profesora Isneidy Contreras en el IUTA. Esta es mi presentación para la Actividad 2 del Bloque 1, titulada: No fue tu culpa. Hoy vamos a hablar sobre accidentes tóxicos y químicos, cómo se clasifican y qué factores determinan su gravedad."
+
+============================================================
+[SLIDE 2 — ¿Qué es la Toxicología?]
+============================================================
+Texto en pantalla:
+- "El estudio de los venenos y sus efectos en los seres vivos"
+
+Guion de voz:
+"Para entender los accidentes químicos, primero necesitamos saber de qué trata la toxicología. La toxicología es la rama de la ciencia que estudia los efectos perjudiciales de las sustancias — ya sean naturales o fabricadas por el hombre — cuando entran en contacto o interacción con organismos vivos. Es, en pocas palabras, el estudio de los venenos y lo que le hacen a nuestro cuerpo."
+
+============================================================
+[SLIDE 3 — Toxicología Industrial]
+============================================================
+Texto en pantalla:
+- "Proteger al trabajador del entorno químico"
+- Identificación de riesgos laborales
+- Medidas preventivas y mitigadoras
+
+Guion de voz:
+"Dentro de la toxicología existe una rama muy importante llamada toxicología industrial. Esta se enfoca específicamente en el estudio de las sustancias y agentes contaminantes en el entorno laboral industrial — es decir, en fábricas, refinerías, plantas de procesamiento y todo el sector secundario de producción.
+
+Su importancia es crítica: nos permite identificar y evaluar los riesgos químicos a los que están expuestos los trabajadores, implementar medidas preventivas, y garantizar una producción responsable que no ponga en riesgo ni a las personas ni al medio ambiente."
+
+============================================================
+[SLIDE 4 — Accidente Tóxico o Químico]
+============================================================
+Texto en pantalla:
+- "Liberación peligrosa de sustancias -> vidas en riesgo"
+- Incendios, explosiones, fugas y derrames
+
+Guion de voz:
+"Un accidente químico, también conocido como emergencia química, es un acontecimiento peligroso que ocurre cuando se libera una sustancia riesgosa al ambiente — ya sea de forma accidental o por fallos en los sistemas de seguridad.
+
+Estos accidentes incluyen incendios, explosiones, fugas y derrames de sustancias tóxicas, y pueden provocar enfermedades, lesiones graves, invalidez o incluso la muerte de una gran cantidad de personas.
+
+La población más expuesta generalmente vive o trabaja cerca de zonas industriales. Pero también puede ocurrir en áreas urbanas, cuando un vehículo que transporta sustancias peligrosas tiene un accidente. El peligro no siempre está lejos."
+
+============================================================
+[SLIDE 5 — Clasificación de Accidentes Químicos]
+============================================================
+Texto en pantalla:
+- Por tipo de sustancia (Peligrosas vs. Contaminantes/Adulterantes)
+- Por volumen y peligrosidad liberada
+
+Guion de voz:
+"Los accidentes químicos se pueden clasificar de distintas maneras. La primera clasificación es según el tipo de sustancia involucrada:
+
+Están las sustancias peligrosas — como explosivos, líquidos y sólidos inflamables, agentes oxidantes, sustancias tóxicas o corrosivas.
+
+Y también los contaminantes y adulterantes — como productos que llegan al agua potable, a los alimentos, a los medicamentos o a bienes de consumo diario.
+
+La segunda clasificación es según la cantidad del agente liberado, tomando en cuenta su peligrosidad. No es lo mismo liberar un kilo de gas clorado que un kilo de cianuro — el impacto es completamente diferente."
+
+============================================================
+[SLIDE 6 — Factores para Clasificar Accidentes Químicos]
+============================================================
+Texto en pantalla:
+- Dosis (Aguda vs. Crónica)
+- Toxicidad intrínseca
+- Vías de ingreso (Inhalación, ingestión, dérmica)
+- Riesgo químico
+- Susceptibilidad individual
+
+Guion de voz:
+"Para determinar qué tan grave es un accidente químico, se analizan varios factores:
+
+El primero es la dosis — la cantidad real de sustancia que entra al cuerpo. Una exposición aguda ocurre en menos de 24 horas; una crónica puede durar semanas, meses o incluso años.
+
+El segundo es la toxicidad — la capacidad de esa sustancia de producir daño. Una sustancia muy tóxica puede causar daño grave a dosis muy bajas.
+
+El tercero son las vías de exposición: puede entrar al cuerpo por inhalación — es decir, respirando; por ingestión — comiendo o bebiendo; o por absorción y contacto directo con la piel.
+
+El cuarto factor es el riesgo químico — que se materializa cuando la exposición a un agente peligroso no está controlada.
+
+Y el quinto es la susceptibilidad individual — porque no todas las personas reaccionan igual ante la misma exposición. La edad, el peso, el estado de salud, todo influye."
+
+============================================================
+[SLIDE 7 — Caso Real: Fuga de Gas Cloro en Anzoátegui (2018)]
+============================================================
+Texto en pantalla:
+- 6 de septiembre de 2018 — Sotillo, Anzoátegui
+- Planta potabilizadora Hidrocaribe (El Rincón / La Floresta)
+- 21 intoxicados, 3.000 evacuados, 350 familias afectadas
+- Causa: Falla en conexión y falta de mantenimiento
+
+Guion de voz:
+"Y para cerrar con un caso real ocurrido en Venezuela en los últimos 20 años, les presento lo que pasó el 6 de septiembre de 2018 en el municipio Sotillo, estado Anzoátegui.
+
+En una estación de tratamiento de agua de la empresa Hidrocaribe, ubicada en el sector La Floresta, se produjo una fuga de gas cloro. La causa: la ruptura de una conexión en la planta potabilizadora de El Rincón, combinada con falta de mantenimiento en las tuberías.
+
+El gas comenzó a dispersarse a las 4:50 de la mañana. El resultado: 21 personas intoxicadas, 3 mil personas evacuadas y 350 familias afectadas. Los intoxicados fueron trasladados al Hospital Luis Razetti, donde se habilitó un área pediátrica especial para los niños afectados.
+
+Este es un ejemplo claro de cómo un accidente tóxico puede ocurrir no solo en una refinería o fábrica, sino en una planta de agua potable — un servicio básico del que depende toda una comunidad."
+
+============================================================
+[SLIDE 8 — Cierre]
+============================================================
+Texto en pantalla:
+- "Prevenir es responsabilidad de todos"
+- Gestión de riesgos y mantenimiento oportuno
+
+Guion de voz:
+"La toxicología industrial existe precisamente para evitar que estos eventos ocurran. Nos da las herramientas para anticipar riesgos, identificar factores de peligro y proteger tanto a los trabajadores como a las comunidades cercanas.
+
+Un accidente químico no ocurre por casualidad — es consecuencia de riesgos que no se atendieron a tiempo, de fallas que se ignoraron, de mantenimiento que nunca llegó.
+
+Por eso el título de esta actividad: No fue tu culpa. Porque cuando los sistemas fallan, quienes pagan el precio son los que menos control tienen sobre la situación.
+
+Habiendo culminado con la presentación, me despido — muchísimas gracias por su atención."
