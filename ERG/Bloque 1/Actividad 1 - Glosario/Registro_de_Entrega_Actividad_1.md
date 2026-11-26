@@ -11,7 +11,7 @@
 * **Bloque Académico:** Bloque 1
 * **Actividad:** 1ra ACTIVIDAD — *"Identifiquen lo básico"* (Glosario Digital Interactivo)
 * **Docente / Tutor Virtual:** Por confirmar (Campus Virtual IUTA)
-* **Estado:** ✅ Elaborado y listo para entrega
+* **Estado:** ⏳ Pendiente (Sin entregar — Acceso a plataforma bloqueado / Esperando cronograma docente)
 
 ---
 
