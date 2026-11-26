@@ -1,0 +1,4369 @@
+{
+  "Slides": [
+    {
+      "Name": "Genially sin título",
+      "Size": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "ClickToAdvanceOrder": [],
+      "ClickToAdvanceMode": "appear",
+      "PendingAIImageGenerations": [],
+      "PendingInfographicGenerations": [],
+      "PendingAIVideoGenerations": [],
+      "Id": "6b0797247b83b74928b76acb",
+      "BackgroundColor": "rgba(249, 255, 149, 1)",
+      "Background": "https://static.genially.com/backgroundStandard.png",
+      "SizeBackground": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "PositionBackground": {
+        "PositionLeft": "0px",
+        "PositionTop": "0px"
+      },
+      "OpacityBackground": "1",
+      "Transition": "17",
+      "Order": 1,
+      "Password": null,
+      "PasswordPageConfig": {
+        "backgroundColor": "rgb(0, 15, 51)",
+        "baseColor": "#FFFFFF",
+        "passwordPlaceholder": null,
+        "title": null
+      },
+      "Hidden": false,
+      "TimePagination": null,
+      "Popup": false,
+      "scripts": [],
+      "Guides": [],
+      "AnimationPreset": null,
+      "BigOrder": "1"
+    },
+    {
+      "Name": "",
+      "Size": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "ClickToAdvanceOrder": [],
+      "ClickToAdvanceMode": "appear",
+      "PendingAIImageGenerations": [],
+      "PendingInfographicGenerations": [],
+      "PendingAIVideoGenerations": [],
+      "Id": "1b6b2ca8-f14b-49f3-932f-2a2af8511ccc",
+      "BackgroundColor": "transparent",
+      "Background": "https://static.genially.com/backgroundStandard.png",
+      "SizeBackground": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "PositionBackground": {
+        "PositionLeft": "0px",
+        "PositionTop": "0px"
+      },
+      "OpacityBackground": "1",
+      "Transition": "17",
+      "Order": 2,
+      "Password": null,
+      "PasswordPageConfig": {
+        "backgroundColor": "rgb(0, 15, 51)",
+        "baseColor": "#FFFFFF",
+        "passwordPlaceholder": null,
+        "title": null
+      },
+      "Hidden": false,
+      "TimePagination": null,
+      "Popup": true,
+      "scripts": [],
+      "Guides": [],
+      "AnimationPreset": null,
+      "BigOrder": "9007199254740991"
+    },
+    {
+      "Name": "",
+      "Size": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "ClickToAdvanceOrder": [],
+      "ClickToAdvanceMode": "appear",
+      "PendingAIImageGenerations": [],
+      "PendingInfographicGenerations": [],
+      "PendingAIVideoGenerations": [],
+      "Id": "469dbea1-d332-48b5-8c38-4754f78af47b",
+      "BackgroundColor": "transparent",
+      "Background": "https://static.genially.com/backgroundStandard.png",
+      "SizeBackground": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "PositionBackground": {
+        "PositionLeft": "0px",
+        "PositionTop": "0px"
+      },
+      "OpacityBackground": "1",
+      "Transition": "17",
+      "Order": 3,
+      "Password": null,
+      "PasswordPageConfig": {
+        "backgroundColor": "rgb(0, 15, 51)",
+        "baseColor": "#FFFFFF",
+        "passwordPlaceholder": null,
+        "title": null
+      },
+      "Hidden": false,
+      "TimePagination": null,
+      "Popup": true,
+      "scripts": [],
+      "Guides": [],
+      "AnimationPreset": null,
+      "BigOrder": "9007199254740991"
+    },
+    {
+      "Name": "",
+      "Size": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "ClickToAdvanceOrder": [],
+      "ClickToAdvanceMode": "appear",
+      "PendingAIImageGenerations": [],
+      "PendingInfographicGenerations": [],
+      "PendingAIVideoGenerations": [],
+      "Id": "7841cecc-b606-4647-9566-349cd6764e14",
+      "BackgroundColor": "transparent",
+      "Background": "https://static.genially.com/backgroundStandard.png",
+      "SizeBackground": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "PositionBackground": {
+        "PositionLeft": "0px",
+        "PositionTop": "0px"
+      },
+      "OpacityBackground": "1",
+      "Transition": "17",
+      "Order": 4,
+      "Password": null,
+      "PasswordPageConfig": {
+        "backgroundColor": "rgb(0, 15, 51)",
+        "baseColor": "#FFFFFF",
+        "passwordPlaceholder": null,
+        "title": null
+      },
+      "Hidden": false,
+      "TimePagination": null,
+      "Popup": true,
+      "scripts": [],
+      "Guides": [],
+      "AnimationPreset": null,
+      "BigOrder": "9007199254740991"
+    },
+    {
+      "Name": "",
+      "Size": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "ClickToAdvanceOrder": [],
+      "ClickToAdvanceMode": "appear",
+      "PendingAIImageGenerations": [],
+      "PendingInfographicGenerations": [],
+      "PendingAIVideoGenerations": [],
+      "Id": "947ceae5-f4a3-4a75-aab7-db11817336ce",
+      "BackgroundColor": "transparent",
+      "Background": "https://static.genially.com/backgroundStandard.png",
+      "SizeBackground": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "PositionBackground": {
+        "PositionLeft": "0px",
+        "PositionTop": "0px"
+      },
+      "OpacityBackground": "1",
+      "Transition": "17",
+      "Order": 5,
+      "Password": null,
+      "PasswordPageConfig": {
+        "backgroundColor": "rgb(0, 15, 51)",
+        "baseColor": "#FFFFFF",
+        "passwordPlaceholder": null,
+        "title": null
+      },
+      "Hidden": false,
+      "TimePagination": null,
+      "Popup": true,
+      "scripts": [],
+      "Guides": [],
+      "AnimationPreset": null,
+      "BigOrder": "9007199254740991"
+    },
+    {
+      "Name": "",
+      "Size": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "ClickToAdvanceOrder": [],
+      "ClickToAdvanceMode": "appear",
+      "PendingAIImageGenerations": [],
+      "PendingInfographicGenerations": [],
+      "PendingAIVideoGenerations": [],
+      "Id": "a7e813d1-01b1-4880-9841-6eb91fb6551a",
+      "BackgroundColor": "transparent",
+      "Background": "https://static.genially.com/backgroundStandard.png",
+      "SizeBackground": {
+        "Width": "1200px",
+        "Height": "675px"
+      },
+      "PositionBackground": {
+        "PositionLeft": "0px",
+        "PositionTop": "0px"
+      },
+      "OpacityBackground": "1",
+      "Transition": "17",
+      "Order": 6,
+      "Password": null,
+      "PasswordPageConfig": {
+        "backgroundColor": "rgb(0, 15, 51)",
+        "baseColor": "#FFFFFF",
+        "passwordPlaceholder": null,
+        "title": null
+      },
+      "Hidden": false,
+      "TimePagination": null,
+      "Popup": true,
+      "scripts": [],
+      "Guides": [],
+      "AnimationPreset": null,
+      "BigOrder": "9007199254740991"
+    }
+  ],
+  "Activities": [],
+  "Areas": [],
+  "Arrows": [],
+  "BaseWidgets": [],
+  "ContainerBoxes": [],
+  "Charts": [],
+  "Groups": [],
+  "Images": [
+    {
+      "Id": "fe3d96b0-c05b-445a-a378-b49c10f8fd10",
+      "IdSlide": "6b0797247b83b74928b76acb",
+      "IsHidden": false,
+      "Blocked": true,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 1,
+      "Position": {
+        "PositionLeft": "104.6739254541962px",
+        "PositionTop": "2.5887730491452317px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "Imagen",
+      "Opacity": "0.4",
+      "BlendMode": "normal",
+      "Adjustments": {
+        "brightness": 0,
+        "contrast": 0,
+        "saturation": 0,
+        "temperature": 0
+      },
+      "Filter": "none",
+      "IsDraggable": false,
+      "interactivities": {},
+      "ReadingOrder": 1,
+      "Frame": "none",
+      "Size": {
+        "Width": "1001.6929126846732px",
+        "Height": "667.7952751231155px"
+      },
+      "Source": "https://compressed-images.genially.com/img/6614108cd3d8b9001f8cda7e/e3efbe8f-6b8b-47f3-bd77-0fc085548d9e.png/format=webp",
+      "Offset": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "Transformations": {
+        "innerRotation": 0,
+        "flip": {
+          "x": false,
+          "y": false
+        }
+      },
+      "BigZIndex": 1
+    },
+    {
+      "Id": "5d7c6a6a-b504-4c1e-8a3c-08a33ee454eb",
+      "IdSlide": "1b6b2ca8-f14b-49f3-932f-2a2af8511ccc",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 2,
+      "Position": {
+        "PositionLeft": "619.5031771351667px",
+        "PositionTop": "116.25062198985674px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "fade-in",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel2",
+      "DurationOut": "vel3",
+      "DelayIn": "0.2",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "Imagen",
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "Adjustments": {
+        "brightness": 0,
+        "contrast": 0,
+        "saturation": 0,
+        "temperature": 0
+      },
+      "Filter": "none",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "nHOUQdqyhFUR6eE0l5Fhc"
+      },
+      "ReadingOrder": 2,
+      "Frame": "img-rounded-square",
+      "Size": {
+        "Width": "407.3223811784314px",
+        "Height": "278.6679093851526px"
+      },
+      "Source": "https://compressed-images.genially.com/img/6614108cd3d8b9001f8cda7e/c935f2b6-83a9-481f-9e2e-b95d22e0aa58.jpeg/format=webp",
+      "Offset": {
+        "top": -17.755851032591167,
+        "bottom": -17.755851032591167,
+        "left": 0,
+        "right": 0
+      },
+      "Transformations": {
+        "flip": {
+          "x": false,
+          "y": false
+        },
+        "innerRotation": 0
+      },
+      "BigZIndex": 2
+    },
+    {
+      "Id": "a2643c00-dded-4520-8048-41c32298d103",
+      "IdSlide": "469dbea1-d332-48b5-8c38-4754f78af47b",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 2,
+      "Position": {
+        "PositionLeft": "619.5031771351667px",
+        "PositionTop": "116.25062198985674px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "fade-in",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel2",
+      "DurationOut": "vel3",
+      "DelayIn": "0.2",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "Imagen",
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "Adjustments": {
+        "brightness": 0,
+        "contrast": 0,
+        "saturation": 0,
+        "temperature": 0
+      },
+      "Filter": "none",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "R-qtnnDFgrKsGF0jwaFVZ"
+      },
+      "ReadingOrder": 2,
+      "Frame": "img-rounded-square",
+      "Size": {
+        "Width": "407.3223811784314px",
+        "Height": "278.6679093851526px"
+      },
+      "Source": "https://compressed-images.genially.com/img/6614108cd3d8b9001f8cda7e/6ce9fcbc-9f1b-4118-98e5-bab74f455a10.jpeg/format=webp",
+      "Offset": {
+        "top": 0,
+        "bottom": 0,
+        "left": -7.028441857565987,
+        "right": -7.028441857565987
+      },
+      "Transformations": {
+        "flip": {
+          "x": false,
+          "y": false
+        },
+        "innerRotation": 0
+      },
+      "BigZIndex": 2
+    },
+    {
+      "Id": "1ad382c6-1f57-481b-8ecb-73f7436b3397",
+      "IdSlide": "7841cecc-b606-4647-9566-349cd6764e14",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 2,
+      "Position": {
+        "PositionLeft": "619.5031771351667px",
+        "PositionTop": "116.25062198985674px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "fade-in",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel2",
+      "DurationOut": "vel3",
+      "DelayIn": "0.2",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "Imagen",
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "Adjustments": {
+        "brightness": 0,
+        "contrast": 0,
+        "saturation": 0,
+        "temperature": 0
+      },
+      "Filter": "none",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "hzBzQHMbi-vci3o0A0qCX"
+      },
+      "ReadingOrder": 2,
+      "Frame": "img-rounded-square",
+      "Size": {
+        "Width": "407.3223811784314px",
+        "Height": "278.6679093851526px"
+      },
+      "Source": "https://compressed-images.genially.com/img/6614108cd3d8b9001f8cda7e/fea2a2e7-4a17-4327-bd8a-afe86ad8981e.jpeg/format=webp",
+      "Offset": {
+        "top": 0,
+        "bottom": 0,
+        "left": -1.3109374039796895,
+        "right": -1.3109374039796895
+      },
+      "Transformations": {
+        "flip": {
+          "x": false,
+          "y": false
+        },
+        "innerRotation": 0
+      },
+      "BigZIndex": 2
+    },
+    {
+      "Id": "e648a22a-1997-45e4-8022-f6443c45717c",
+      "IdSlide": "947ceae5-f4a3-4a75-aab7-db11817336ce",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 2,
+      "Position": {
+        "PositionLeft": "619.5031771351667px",
+        "PositionTop": "116.25062198985674px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "fade-in",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel2",
+      "DurationOut": "vel3",
+      "DelayIn": "0.2",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "Imagen",
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "Adjustments": {
+        "brightness": 0,
+        "contrast": 0,
+        "saturation": 0,
+        "temperature": 0
+      },
+      "Filter": "none",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "EKvvzQlZkc6X_aSjIQGPX"
+      },
+      "ReadingOrder": 2,
+      "Frame": "img-rounded-square",
+      "Size": {
+        "Width": "407.3223811784314px",
+        "Height": "278.6679093851526px"
+      },
+      "Source": "https://compressed-images.genially.com/img/6614108cd3d8b9001f8cda7e/85ed1a05-4770-462b-ac01-7d01911bbbea.jpeg/format=webp",
+      "Offset": {
+        "top": -4.950250664525308,
+        "bottom": -4.950250664525308,
+        "left": 0,
+        "right": 0
+      },
+      "Transformations": {
+        "flip": {
+          "x": false,
+          "y": false
+        },
+        "innerRotation": 0
+      },
+      "BigZIndex": 2
+    },
+    {
+      "Id": "e8dc4302-5544-4f5a-b5a4-f7a37df5d0f7",
+      "IdSlide": "a7e813d1-01b1-4880-9841-6eb91fb6551a",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 2,
+      "Position": {
+        "PositionLeft": "619.5031771351667px",
+        "PositionTop": "116.25062198985674px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "fade-in",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel2",
+      "DurationOut": "vel3",
+      "DelayIn": "0.2",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "Imagen",
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "Adjustments": {
+        "brightness": 0,
+        "contrast": 0,
+        "saturation": 0,
+        "temperature": 0
+      },
+      "Filter": "none",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "IQUzzc9owEcjCd0OTFRwR"
+      },
+      "ReadingOrder": 2,
+      "Frame": "img-rounded-square",
+      "Size": {
+        "Width": "407.3223811784314px",
+        "Height": "278.6679093851526px"
+      },
+      "Source": "https://compressed-images.genially.com/img/6614108cd3d8b9001f8cda7e/9f116981-3e45-45fe-afcd-23ca3ca2a74e.png/format=webp",
+      "Offset": {
+        "top": -7.370809206297643,
+        "bottom": -7.370809206297643,
+        "left": 0,
+        "right": 0
+      },
+      "Transformations": {
+        "flip": {
+          "x": false,
+          "y": false
+        },
+        "innerRotation": 0
+      },
+      "BigZIndex": 2
+    }
+  ],
+  "Pins": [],
+  "RichContents": [],
+  "Svgs": [
+    {
+      "Id": "b027b7e8-9c53-4f2e-82ee-0790731dda2d",
+      "IdSlide": "1b6b2ca8-f14b-49f3-932f-2a2af8511ccc",
+      "IsHidden": false,
+      "Blocked": true,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 1,
+      "Position": {
+        "PositionLeft": "124.5px",
+        "PositionTop": "60.5px"
+      },
+      "Size": {
+        "Width": "951px",
+        "Height": "554px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {},
+      "ReadingOrder": 1,
+      "SourceSvg": "svg/SourceSvg;WWtdOXFvn+wWgLvXyOCp8oVU7t6TVrVMmHCoFLdhmhM=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "AspectRatio": false,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 1
+    },
+    {
+      "Id": "e7afa9c6-1346-4a35-bc7b-8c0571e1b6cc",
+      "IdSlide": "1b6b2ca8-f14b-49f3-932f-2a2af8511ccc",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 3,
+      "Position": {
+        "PositionLeft": "658.2077493211332px",
+        "PositionTop": "310.2563676362838px"
+      },
+      "Size": {
+        "Width": "50px",
+        "Height": "50px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "pulsate-bck",
+      "EffectIn": "scale-in-center-reverse",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel2",
+      "DurationOut": "vel3",
+      "DelayIn": "0.2",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "2GH_pE_qcGoCxilcEmWhc"
+      },
+      "ReadingOrder": 3,
+      "SourceSvg": "svg/SourceSvg;Gm/T2i8vxrbKzyzPDfYq0frsLEk4xz+l/1gBDtf8JN0=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(82, 95, 255, 1)"
+      ],
+      "AspectRatio": true,
+      "AspectRatioDirection": null,
+      "Category": "58d127807c2081128c99d792",
+      "BigZIndex": 3
+    },
+    {
+      "Id": "840eed87-75b1-43b2-90b4-9de4b85e580c",
+      "IdSlide": "1b6b2ca8-f14b-49f3-932f-2a2af8511ccc",
+      "IsHidden": false,
+      "Blocked": true,
+      "LayerTitle": "SVG",
+      "IdGroup": null,
+      "ZIndex": 8,
+      "Position": {
+        "PositionLeft": "1045.5000317294675px",
+        "PositionTop": "30.500003525496393px"
+      },
+      "Size": {
+        "Width": "60px",
+        "Height": "60px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "scale-in-center",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel2",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "yrvcIJy0poNTuJTxJPOm_"
+      },
+      "ReadingOrder": 7,
+      "SourceSvg": "svg/SourceSvg;u/tVKnMmSW9Fn4f7VJA4HxI4AiwVg3envEF25sKLRQI=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(32, 32, 32, 1)"
+      ],
+      "AspectRatio": true,
+      "AspectRatioDirection": null,
+      "Category": "58d127807c2081128c99d792",
+      "BigZIndex": 8
+    },
+    {
+      "Id": "bd12a138-da00-4632-ab14-54b569f895d3",
+      "IdSlide": "469dbea1-d332-48b5-8c38-4754f78af47b",
+      "IsHidden": false,
+      "Blocked": true,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 1,
+      "Position": {
+        "PositionLeft": "124.5px",
+        "PositionTop": "60.5px"
+      },
+      "Size": {
+        "Width": "951px",
+        "Height": "554px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {},
+      "ReadingOrder": 1,
+      "SourceSvg": "svg/SourceSvg;WWtdOXFvn+wWgLvXyOCp8oVU7t6TVrVMmHCoFLdhmhM=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "AspectRatio": false,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 1
+    },
+    {
+      "Id": "5c64fead-7815-4a34-8d96-096fd8b600d2",
+      "IdSlide": "469dbea1-d332-48b5-8c38-4754f78af47b",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 3,
+      "Position": {
+        "PositionLeft": "658.2077493211332px",
+        "PositionTop": "310.2563676362838px"
+      },
+      "Size": {
+        "Width": "50px",
+        "Height": "50px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "pulsate-bck",
+      "EffectIn": "scale-in-center-reverse",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel2",
+      "DurationOut": "vel3",
+      "DelayIn": "0.2",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "HVzBK4KT93QfFdEtsQMNa"
+      },
+      "ReadingOrder": 3,
+      "SourceSvg": "svg/SourceSvg;Gm/T2i8vxrbKzyzPDfYq0frsLEk4xz+l/1gBDtf8JN0=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(82, 95, 255, 1)"
+      ],
+      "AspectRatio": true,
+      "AspectRatioDirection": null,
+      "Category": "58d127807c2081128c99d792",
+      "BigZIndex": 3
+    },
+    {
+      "Id": "d8198bb2-6fcf-40dc-a68a-12707e453266",
+      "IdSlide": "469dbea1-d332-48b5-8c38-4754f78af47b",
+      "IsHidden": false,
+      "Blocked": true,
+      "LayerTitle": "SVG",
+      "IdGroup": null,
+      "ZIndex": 8,
+      "Position": {
+        "PositionLeft": "1045.5000317294675px",
+        "PositionTop": "30.500003525496393px"
+      },
+      "Size": {
+        "Width": "60px",
+        "Height": "60px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "scale-in-center",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel2",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "EqIquTgCs-l1YMcRAemPz"
+      },
+      "ReadingOrder": 7,
+      "SourceSvg": "svg/SourceSvg;u/tVKnMmSW9Fn4f7VJA4HxI4AiwVg3envEF25sKLRQI=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(32, 32, 32, 1)"
+      ],
+      "AspectRatio": true,
+      "AspectRatioDirection": null,
+      "Category": "58d127807c2081128c99d792",
+      "BigZIndex": 8
+    },
+    {
+      "Id": "eb0679ea-5341-4589-bac6-727031c10e11",
+      "IdSlide": "7841cecc-b606-4647-9566-349cd6764e14",
+      "IsHidden": false,
+      "Blocked": true,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 1,
+      "Position": {
+        "PositionLeft": "124.5px",
+        "PositionTop": "60.5px"
+      },
+      "Size": {
+        "Width": "951px",
+        "Height": "554px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {},
+      "ReadingOrder": 1,
+      "SourceSvg": "svg/SourceSvg;WWtdOXFvn+wWgLvXyOCp8oVU7t6TVrVMmHCoFLdhmhM=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "AspectRatio": false,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 1
+    },
+    {
+      "Id": "37f7bbb9-945a-4939-b2a7-72993d801209",
+      "IdSlide": "7841cecc-b606-4647-9566-349cd6764e14",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 3,
+      "Position": {
+        "PositionLeft": "658.2077493211332px",
+        "PositionTop": "310.2563676362838px"
+      },
+      "Size": {
+        "Width": "50px",
+        "Height": "50px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "pulsate-bck",
+      "EffectIn": "scale-in-center-reverse",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel2",
+      "DurationOut": "vel3",
+      "DelayIn": "0.2",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "9kV1JRas3QChYISYkD1JT"
+      },
+      "ReadingOrder": 3,
+      "SourceSvg": "svg/SourceSvg;Gm/T2i8vxrbKzyzPDfYq0frsLEk4xz+l/1gBDtf8JN0=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(82, 95, 255, 1)"
+      ],
+      "AspectRatio": true,
+      "AspectRatioDirection": null,
+      "Category": "58d127807c2081128c99d792",
+      "BigZIndex": 3
+    },
+    {
+      "Id": "8c2c0933-ab5b-4765-a533-9422c3649709",
+      "IdSlide": "7841cecc-b606-4647-9566-349cd6764e14",
+      "IsHidden": false,
+      "Blocked": true,
+      "LayerTitle": "SVG",
+      "IdGroup": null,
+      "ZIndex": 8,
+      "Position": {
+        "PositionLeft": "1045.5000317294675px",
+        "PositionTop": "30.500003525496393px"
+      },
+      "Size": {
+        "Width": "60px",
+        "Height": "60px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "scale-in-center",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel2",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "BE7l1XQ-62IgqQhFBApln"
+      },
+      "ReadingOrder": 7,
+      "SourceSvg": "svg/SourceSvg;u/tVKnMmSW9Fn4f7VJA4HxI4AiwVg3envEF25sKLRQI=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(32, 32, 32, 1)"
+      ],
+      "AspectRatio": true,
+      "AspectRatioDirection": null,
+      "Category": "58d127807c2081128c99d792",
+      "BigZIndex": 8
+    },
+    {
+      "Id": "5379a191-9004-4233-a38c-da9f2e9c2de3",
+      "IdSlide": "947ceae5-f4a3-4a75-aab7-db11817336ce",
+      "IsHidden": false,
+      "Blocked": true,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 1,
+      "Position": {
+        "PositionLeft": "124.5px",
+        "PositionTop": "60.5px"
+      },
+      "Size": {
+        "Width": "951px",
+        "Height": "554px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {},
+      "ReadingOrder": 1,
+      "SourceSvg": "svg/SourceSvg;WWtdOXFvn+wWgLvXyOCp8oVU7t6TVrVMmHCoFLdhmhM=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "AspectRatio": false,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 1
+    },
+    {
+      "Id": "73a667c5-b26a-41b0-9e50-dbdd7fd02a9f",
+      "IdSlide": "947ceae5-f4a3-4a75-aab7-db11817336ce",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 3,
+      "Position": {
+        "PositionLeft": "658.2077493211332px",
+        "PositionTop": "310.2563676362838px"
+      },
+      "Size": {
+        "Width": "50px",
+        "Height": "50px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "pulsate-bck",
+      "EffectIn": "scale-in-center-reverse",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel2",
+      "DurationOut": "vel3",
+      "DelayIn": "0.2",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "9yGRmtoIlicOUY3GHYFdE"
+      },
+      "ReadingOrder": 3,
+      "SourceSvg": "svg/SourceSvg;Gm/T2i8vxrbKzyzPDfYq0frsLEk4xz+l/1gBDtf8JN0=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(82, 95, 255, 1)"
+      ],
+      "AspectRatio": true,
+      "AspectRatioDirection": null,
+      "Category": "58d127807c2081128c99d792",
+      "BigZIndex": 3
+    },
+    {
+      "Id": "6891eb21-1db0-494b-b770-161b371ffdd9",
+      "IdSlide": "947ceae5-f4a3-4a75-aab7-db11817336ce",
+      "IsHidden": false,
+      "Blocked": true,
+      "LayerTitle": "SVG",
+      "IdGroup": null,
+      "ZIndex": 8,
+      "Position": {
+        "PositionLeft": "1045.5000317294675px",
+        "PositionTop": "30.500003525496393px"
+      },
+      "Size": {
+        "Width": "60px",
+        "Height": "60px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "scale-in-center",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel2",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "JxoSqJEb-nkiJB-Fi3w2_"
+      },
+      "ReadingOrder": 7,
+      "SourceSvg": "svg/SourceSvg;u/tVKnMmSW9Fn4f7VJA4HxI4AiwVg3envEF25sKLRQI=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(32, 32, 32, 1)"
+      ],
+      "AspectRatio": true,
+      "AspectRatioDirection": null,
+      "Category": "58d127807c2081128c99d792",
+      "BigZIndex": 8
+    },
+    {
+      "Id": "71056d7e-9009-4bb0-8e5f-844477392abb",
+      "IdSlide": "a7e813d1-01b1-4880-9841-6eb91fb6551a",
+      "IsHidden": false,
+      "Blocked": true,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 1,
+      "Position": {
+        "PositionLeft": "124.5px",
+        "PositionTop": "60.5px"
+      },
+      "Size": {
+        "Width": "951px",
+        "Height": "554px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {},
+      "ReadingOrder": 1,
+      "SourceSvg": "svg/SourceSvg;WWtdOXFvn+wWgLvXyOCp8oVU7t6TVrVMmHCoFLdhmhM=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(255, 255, 255, 1)"
+      ],
+      "AspectRatio": false,
+      "AspectRatioDirection": null,
+      "Category": "56fbfd18ff06eb20b02e1507",
+      "BigZIndex": 1
+    },
+    {
+      "Id": "9591e46d-d263-4e47-a116-f16578871834",
+      "IdSlide": "a7e813d1-01b1-4880-9841-6eb91fb6551a",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 3,
+      "Position": {
+        "PositionLeft": "658.2077493211332px",
+        "PositionTop": "310.2563676362838px"
+      },
+      "Size": {
+        "Width": "50px",
+        "Height": "50px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "pulsate-bck",
+      "EffectIn": "scale-in-center-reverse",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel2",
+      "DurationOut": "vel3",
+      "DelayIn": "0.2",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "s_NeutgWSZhvxWCyv31eI"
+      },
+      "ReadingOrder": 3,
+      "SourceSvg": "svg/SourceSvg;Gm/T2i8vxrbKzyzPDfYq0frsLEk4xz+l/1gBDtf8JN0=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(82, 95, 255, 1)"
+      ],
+      "AspectRatio": true,
+      "AspectRatioDirection": null,
+      "Category": "58d127807c2081128c99d792",
+      "BigZIndex": 3
+    },
+    {
+      "Id": "8634e252-6235-4a35-8f9f-82e682b6f4c3",
+      "IdSlide": "a7e813d1-01b1-4880-9841-6eb91fb6551a",
+      "IsHidden": false,
+      "Blocked": true,
+      "LayerTitle": "SVG",
+      "IdGroup": null,
+      "ZIndex": 8,
+      "Position": {
+        "PositionLeft": "1045.5000317294675px",
+        "PositionTop": "30.500003525496393px"
+      },
+      "Size": {
+        "Width": "60px",
+        "Height": "60px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "scale-in-center",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel2",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Name": "SVG",
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "JRwwIZu-UvQrKhB5zsj2F"
+      },
+      "ReadingOrder": 7,
+      "SourceSvg": "svg/SourceSvg;u/tVKnMmSW9Fn4f7VJA4HxI4AiwVg3envEF25sKLRQI=",
+      "Frame": "none",
+      "ColorsCount": 1,
+      "Colors": [
+        "rgba(32, 32, 32, 1)"
+      ],
+      "AspectRatio": true,
+      "AspectRatioDirection": null,
+      "Category": "58d127807c2081128c99d792",
+      "BigZIndex": 8
+    }
+  ],
+  "Texts": [
+    {
+      "Id": "cb1f3a12-db34-427a-83db-d0f97018d476",
+      "IdSlide": "6b0797247b83b74928b76acb",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 2,
+      "Position": {
+        "PositionLeft": "340.4582361674388px",
+        "PositionTop": "300.4556768821842px"
+      },
+      "Size": {
+        "Width": "100.83410366620876px",
+        "Height": "94px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "zoom-hover",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "4mQmsgv3-ZZuPMTGDMn5m"
+      },
+      "Name": "Título 1",
+      "ReadingOrder": 2,
+      "BrandStyle": "title_1",
+      "TextMessage": "<div style=\"font-weight: bold; color: rgb(0, 0, 0);\">Título 1</div>",
+      "Content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "nodeIndent": null,
+              "nodeTextAlignment": "center",
+              "nodeLineHeight": null,
+              "style": "",
+              "nodeInterParagraph": null,
+              "dir": null,
+              "ignoreBidiAutoUpdate": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bold"
+                  },
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(0, 0, 0)"
+                    }
+                  }
+                ],
+                "text": "C"
+              }
+            ]
+          }
+        ]
+      },
+      "Color": "rgb(0, 0, 0)",
+      "FontSize": "82px",
+      "FontFamily": "Bungee Shade",
+      "Classes": [],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.15",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "VerticalAlign": "top",
+      "DisplayHtmlAs": "title_1",
+      "IsAIGenerated": false,
+      "BigZIndex": 2
+    },
+    {
+      "Id": "4754b2f2-e4cd-4936-94d3-2c0622704e20",
+      "IdSlide": "6b0797247b83b74928b76acb",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 3,
+      "Position": {
+        "PositionLeft": "444.4582361674388px",
+        "PositionTop": "299.4556768821842px"
+      },
+      "Size": {
+        "Width": "100.83410366620876px",
+        "Height": "94px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "zoom-hover",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "bNFJ1sM0yz3aM2Xt-0Pmz"
+      },
+      "Name": "Título 1",
+      "ReadingOrder": 3,
+      "BrandStyle": "title_1",
+      "TextMessage": "<div style=\"font-weight: bold; color: rgb(0, 0, 0);\">Título 1</div>",
+      "Content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "nodeIndent": 0,
+              "nodeTextAlignment": "center",
+              "nodeLineHeight": null,
+              "style": "",
+              "nodeInterParagraph": null,
+              "dir": null,
+              "ignoreBidiAutoUpdate": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ],
+                "text": "D"
+              }
+            ]
+          }
+        ]
+      },
+      "Color": "rgb(0, 0, 0)",
+      "FontSize": "82px",
+      "FontFamily": "Bungee Shade",
+      "Classes": [],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.15",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "VerticalAlign": "top",
+      "DisplayHtmlAs": "title_1",
+      "IsAIGenerated": false,
+      "BigZIndex": 3
+    },
+    {
+      "Id": "b88c2064-d0be-44ba-9da1-df5152bfea48",
+      "IdSlide": "6b0797247b83b74928b76acb",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 4,
+      "Position": {
+        "PositionLeft": "546.4582361674388px",
+        "PositionTop": "298.4556768821842px"
+      },
+      "Size": {
+        "Width": "100.83410366620876px",
+        "Height": "94px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "zoom-hover",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "fBYSg9oEtSogSMb1YceN8"
+      },
+      "Name": "Título 1",
+      "ReadingOrder": 4,
+      "BrandStyle": "title_1",
+      "TextMessage": "<div style=\"font-weight: bold; color: rgb(0, 0, 0);\">Título 1</div>",
+      "Content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "nodeIndent": 0,
+              "nodeTextAlignment": "center",
+              "nodeLineHeight": null,
+              "style": "",
+              "nodeInterParagraph": null,
+              "dir": null,
+              "ignoreBidiAutoUpdate": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ],
+                "text": "I"
+              }
+            ]
+          }
+        ]
+      },
+      "Color": "rgb(0, 0, 0)",
+      "FontSize": "82px",
+      "FontFamily": "Bungee Shade",
+      "Classes": [],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.15",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "VerticalAlign": "top",
+      "DisplayHtmlAs": "title_1",
+      "IsAIGenerated": false,
+      "BigZIndex": 4
+    },
+    {
+      "Id": "1822916a-2b59-4bcd-b273-188fb0da68a1",
+      "IdSlide": "6b0797247b83b74928b76acb",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 5,
+      "Position": {
+        "PositionLeft": "649.4582361674388px",
+        "PositionTop": "298.4556768821842px"
+      },
+      "Size": {
+        "Width": "100.83410366620876px",
+        "Height": "94px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "zoom-hover",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "i4juRVzuRFu3QIKUHWPCk"
+      },
+      "Name": "Título 1",
+      "ReadingOrder": 5,
+      "BrandStyle": "title_1",
+      "TextMessage": "<div style=\"font-weight: bold; color: rgb(0, 0, 0);\">Título 1</div>",
+      "Content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "nodeIndent": 0,
+              "nodeTextAlignment": "center",
+              "nodeLineHeight": null,
+              "style": "",
+              "nodeInterParagraph": null,
+              "dir": null,
+              "ignoreBidiAutoUpdate": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ],
+                "text": "S"
+              }
+            ]
+          }
+        ]
+      },
+      "Color": "rgb(0, 0, 0)",
+      "FontSize": "82px",
+      "FontFamily": "Bungee Shade",
+      "Classes": [],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.15",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "VerticalAlign": "top",
+      "DisplayHtmlAs": "title_1",
+      "IsAIGenerated": false,
+      "BigZIndex": 5
+    },
+    {
+      "Id": "cf83919c-35b6-4366-b962-192eb46318b2",
+      "IdSlide": "6b0797247b83b74928b76acb",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 6,
+      "Position": {
+        "PositionLeft": "755.4582361674388px",
+        "PositionTop": "301.4556768821842px"
+      },
+      "Size": {
+        "Width": "100.83410366620876px",
+        "Height": "94px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "zoom-hover",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "zWgpfGQPmPwhYuO8tkE1h"
+      },
+      "Name": "Título 1",
+      "ReadingOrder": 6,
+      "BrandStyle": "title_1",
+      "TextMessage": "<div style=\"font-weight: bold; color: rgb(0, 0, 0);\">Título 1</div>",
+      "Content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "nodeIndent": 0,
+              "nodeTextAlignment": "center",
+              "nodeLineHeight": null,
+              "style": "",
+              "nodeInterParagraph": null,
+              "dir": null,
+              "ignoreBidiAutoUpdate": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ],
+                "text": "T"
+              }
+            ]
+          }
+        ]
+      },
+      "Color": "rgb(0, 0, 0)",
+      "FontSize": "82px",
+      "FontFamily": "Bungee Shade",
+      "Classes": [],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.15",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "VerticalAlign": "top",
+      "DisplayHtmlAs": "title_1",
+      "IsAIGenerated": false,
+      "BigZIndex": 6
+    },
+    {
+      "Id": "62d1b241-4b9e-43a3-bcc0-b03bca1b6210",
+      "IdSlide": "6b0797247b83b74928b76acb",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 7,
+      "Position": {
+        "PositionLeft": "54.07947428613399px",
+        "PositionTop": "59.81321878162555px"
+      },
+      "Size": {
+        "Width": "1102.8818150207976px",
+        "Height": "63px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "Título 1",
+      "ReadingOrder": 7,
+      "BrandStyle": "title_1",
+      "TextMessage": "<div style=\"font-weight: bold; color: rgb(0, 0, 0);\">Título 1</div>",
+      "Content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "nodeIndent": null,
+              "nodeTextAlignment": "center",
+              "nodeLineHeight": null,
+              "style": "",
+              "nodeInterParagraph": null,
+              "dir": null,
+              "ignoreBidiAutoUpdate": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bold"
+                  },
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(0, 0, 0)"
+                    }
+                  }
+                ],
+                "text": "Glosario Interactivo de Ergonomía"
+              }
+            ]
+          }
+        ]
+      },
+      "Color": "rgb(0, 0, 0)",
+      "FontSize": "55px",
+      "FontFamily": "Inter",
+      "Classes": [],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.15",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "VerticalAlign": "top",
+      "DisplayHtmlAs": "title_1",
+      "IsAIGenerated": false,
+      "BigZIndex": 7
+    },
+    {
+      "Id": "cf70d25a-7a66-4849-82e6-a6c2ea713237",
+      "IdSlide": "6b0797247b83b74928b76acb",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 8,
+      "Position": {
+        "PositionLeft": "727.3166949693436px",
+        "PositionTop": "564.2901635957761px"
+      },
+      "Size": {
+        "Width": "434.1575176036852px",
+        "Height": "69px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "none",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel3",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "Esto es ...",
+      "ReadingOrder": 33,
+      "BrandStyle": "content",
+      "TextMessage": "<div style=\"color: rgb(0, 0, 0);\">Esto es un párrafo listo para contener creatividad, experiencias e historias geniales.</div>",
+      "Content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "nodeIndent": null,
+              "nodeTextAlignment": null,
+              "nodeLineHeight": null,
+              "style": "",
+              "nodeInterParagraph": null,
+              "dir": null,
+              "ignoreBidiAutoUpdate": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ],
+                "text": "Estudiante"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bold"
+                  },
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(0, 0, 0)"
+                    }
+                  }
+                ],
+                "text": ":"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(0, 0, 0)"
+                    }
+                  }
+                ],
+                "text": " Eduardo José González Morales."
+              },
+              {
+                "type": "hardBreak",
+                "marks": [
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(0, 0, 0)"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bold"
+                  },
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(0, 0, 0)"
+                    }
+                  }
+                ],
+                "text": "C.I.:"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(0, 0, 0)"
+                    }
+                  }
+                ],
+                "text": " V-28.625.300."
+              },
+              {
+                "type": "hardBreak",
+                "marks": [
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(0, 0, 0)"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bold"
+                  },
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(0, 0, 0)"
+                    }
+                  }
+                ],
+                "text": "Asignatura:"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(0, 0, 0)"
+                    }
+                  }
+                ],
+                "text": " Ergonomía."
+              }
+            ]
+          }
+        ]
+      },
+      "Color": "rgb(0, 0, 0)",
+      "FontSize": "20px",
+      "FontFamily": "Inter",
+      "Classes": [],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.15",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "VerticalAlign": "top",
+      "DisplayHtmlAs": "content",
+      "IsAIGenerated": false,
+      "BigZIndex": 8
+    },
+    {
+      "Id": "3936e442-94f5-4955-a45d-4de4ea1a8256",
+      "IdSlide": "1b6b2ca8-f14b-49f3-932f-2a2af8511ccc",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 4,
+      "Position": {
+        "PositionLeft": "173.20457329196017px",
+        "PositionTop": "232.74937801014323px"
+      },
+      "Size": {
+        "Width": "407.45071156522636px",
+        "Height": "202px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "fade-in-bottom",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel2",
+      "DurationOut": "vel3",
+      "DelayIn": "0.4",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "Lorem ip...",
+      "ReadingOrder": 4,
+      "BrandStyle": "content",
+      "TextMessage": "<div><span style=\"color: rgb(60, 61, 65);\"><span style=\"font-weight: normal;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed </span><span style=\"font-weight: bold;\">do eiusmod tempor</span> incididunt ut labore et dolore magna aliqua.</span></div><div><span style=\"color: rgb(60, 61, 65);\"><span style=\"font-weight: bold;\">Lorem ipsum dolo</span><span style=\"font-weight: normal;\">r sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</span></span></div><div><span style=\"color: rgb(60, 61, 65);\"><span style=\"font-weight: normal;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do </span><span style=\"font-weight: bold;\">eiusmod tempor incididunt</span>.</span></div>",
+      "Content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "nodeIndent": null,
+              "nodeTextAlignment": null,
+              "nodeLineHeight": null,
+              "style": "",
+              "nodeInterParagraph": null,
+              "dir": null,
+              "ignoreBidiAutoUpdate": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(60, 61, 65)"
+                    }
+                  }
+                ],
+                "text": "Es el conjunto de dispositivos físicos (visuales, táctiles, auditivos) y lógicos que permiten la interacción y comunicación bidireccional entre el usuario humano y un sistema o máquina. Constituye el punto de contacto directo entre la lógica interna del equipo y la intención u órdenes del operador."
+              }
+            ]
+          }
+        ]
+      },
+      "Color": "rgba(60, 61, 65, 1)",
+      "FontSize": "18px",
+      "FontFamily": "Archivo",
+      "Classes": [],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.6",
+      "LetterSpacing": "0",
+      "InterParagraph": "medium",
+      "VerticalAlign": "top",
+      "DisplayHtmlAs": "content",
+      "IsAIGenerated": false,
+      "BigZIndex": 4
+    },
+    {
+      "Id": "0ce82df0-7116-4cfd-aebe-716132d9ea36",
+      "IdSlide": "1b6b2ca8-f14b-49f3-932f-2a2af8511ccc",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 5,
+      "Position": {
+        "PositionLeft": "173.20457329196014px",
+        "PositionTop": "130.76504706559436px"
+      },
+      "Size": {
+        "Width": "406.5475905711774px",
+        "Height": "97px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "fade-in-bottom",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel2",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "Lorem ip...",
+      "ReadingOrder": 5,
+      "BrandStyle": "title_1",
+      "TextMessage": "<div><span style=\"font-weight: bold; color: rgb(60, 61, 65);\">Lorem ipsum dolor</span></div>",
+      "Content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "nodeIndent": null,
+              "nodeTextAlignment": "center",
+              "nodeLineHeight": null,
+              "style": "",
+              "nodeInterParagraph": null,
+              "dir": null,
+              "ignoreBidiAutoUpdate": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bold"
+                  },
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(60, 61, 65)"
+                    }
+                  }
+                ],
+                "text": "Interfaz Hombre-Máquina"
+              }
+            ]
+          }
+        ]
+      },
+      "Color": "rgba(60, 61, 65, 1)",
+      "FontSize": "42px",
+      "FontFamily": "Archivo",
+      "Classes": [],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.15",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "VerticalAlign": "top",
+      "DisplayHtmlAs": "title_1",
+      "IsAIGenerated": false,
+      "BigZIndex": 5
+    },
+    {
+      "Id": "44393cd9-dcaa-47b8-b2b5-411f121c1786",
+      "IdSlide": "1b6b2ca8-f14b-49f3-932f-2a2af8511ccc",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 6,
+      "Position": {
+        "PositionLeft": "173.20303962928307px",
+        "PositionTop": "532.3049370792303px"
+      },
+      "Size": {
+        "Width": "407.8096515650867px",
+        "Height": "58px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "fade-in-bottom",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel2",
+      "DurationOut": "vel3",
+      "DelayIn": "0.6",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "vndNWCkEnY454EgU9TuN-"
+      },
+      "Name": "Lorem ip...",
+      "ReadingOrder": 6,
+      "BrandStyle": "content",
+      "TextMessage": "<div><span style=\"text-decoration-line: underline; color: rgb(82, 95, 255); font-style: italic;\">Lorem ipsum dolor sit</span></div>",
+      "Content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "nodeIndent": null,
+              "nodeTextAlignment": null,
+              "nodeLineHeight": null,
+              "style": "",
+              "nodeInterParagraph": null,
+              "dir": null,
+              "ignoreBidiAutoUpdate": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  },
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(82, 95, 255)"
+                    }
+                  },
+                  {
+                    "type": "underline"
+                  }
+                ],
+                "text": "Definición Interfaz Hombre-Máquina (IHM) - Ace Automation Europe"
+              }
+            ]
+          }
+        ]
+      },
+      "Color": "rgba(60, 61, 65, 1)",
+      "FontSize": "18px",
+      "FontFamily": "Archivo",
+      "Classes": [],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.6",
+      "LetterSpacing": "0",
+      "InterParagraph": "medium",
+      "VerticalAlign": "top",
+      "DisplayHtmlAs": "content",
+      "IsAIGenerated": false,
+      "BigZIndex": 6
+    },
+    {
+      "Id": "252a103a-71dd-451f-9bcb-cb972140b0d4",
+      "IdSlide": "1b6b2ca8-f14b-49f3-932f-2a2af8511ccc",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 7,
+      "Position": {
+        "PositionLeft": "623.2045732919602px",
+        "PositionTop": "427.74937801014323px"
+      },
+      "Size": {
+        "Width": "407.45071156522636px",
+        "Height": "115px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "fade-in-bottom",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel2",
+      "DurationOut": "vel3",
+      "DelayIn": "0.4",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "Lorem ip...",
+      "ReadingOrder": 11,
+      "BrandStyle": "content",
+      "TextMessage": "<div><span style=\"color: rgb(60, 61, 65);\"><span style=\"font-weight: normal;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed </span><span style=\"font-weight: bold;\">do eiusmod tempor</span> incididunt ut labore et dolore magna aliqua.</span></div><div><span style=\"color: rgb(60, 61, 65);\"><span style=\"font-weight: bold;\">Lorem ipsum dolo</span><span style=\"font-weight: normal;\">r sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</span></span></div><div><span style=\"color: rgb(60, 61, 65);\"><span style=\"font-weight: normal;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do </span><span style=\"font-weight: bold;\">eiusmod tempor incididunt</span>.</span></div>",
+      "Content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "nodeIndent": null,
+              "nodeTextAlignment": null,
+              "nodeLineHeight": null,
+              "style": "",
+              "nodeInterParagraph": null,
+              "dir": null,
+              "ignoreBidiAutoUpdate": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bold"
+                  },
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(60, 61, 65)"
+                    }
+                  }
+                ],
+                "text": "Ejemplo"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(60, 61, 65)"
+                    }
+                  }
+                ],
+                "text": ": "
+              },
+              {
+                "type": "hardBreak",
+                "marks": [
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(60, 61, 65)"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "hardBreak",
+                "marks": [
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(60, 61, 65)"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(60, 61, 65)"
+                    }
+                  }
+                ],
+                "text": "Pantalla táctil donde el operario monitorea la presión y temperatura de una caldera."
+              }
+            ]
+          }
+        ]
+      },
+      "Color": "rgba(60, 61, 65, 1)",
+      "FontSize": "18px",
+      "FontFamily": "Archivo",
+      "Classes": [],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.6",
+      "LetterSpacing": "0",
+      "InterParagraph": "medium",
+      "VerticalAlign": "top",
+      "DisplayHtmlAs": "content",
+      "IsAIGenerated": false,
+      "BigZIndex": 7
+    },
+    {
+      "Id": "c5b8579c-b162-49d8-ad85-cd97f12b5f55",
+      "IdSlide": "469dbea1-d332-48b5-8c38-4754f78af47b",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 4,
+      "Position": {
+        "PositionLeft": "173.20457329196017px",
+        "PositionTop": "231.00988218435768px"
+      },
+      "Size": {
+        "Width": "407.45071156522636px",
+        "Height": "278px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "fade-in-bottom",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel2",
+      "DurationOut": "vel3",
+      "DelayIn": "0.4",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "Lorem ip...",
+      "ReadingOrder": 4,
+      "BrandStyle": "content",
+      "TextMessage": "<div><span style=\"color: rgb(60, 61, 65);\"><span style=\"font-weight: normal;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed </span><span style=\"font-weight: bold;\">do eiusmod tempor</span> incididunt ut labore et dolore magna aliqua.</span></div><div><span style=\"color: rgb(60, 61, 65);\"><span style=\"font-weight: bold;\">Lorem ipsum dolo</span><span style=\"font-weight: normal;\">r sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</span></span></div><div><span style=\"color: rgb(60, 61, 65);\"><span style=\"font-weight: normal;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do </span><span style=\"font-weight: bold;\">eiusmod tempor incididunt</span>.</span></div>",
+      "Content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "scrollText",
+            "attrs": {
+              "height": 15.43
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "nodeIndent": null,
+                  "nodeTextAlignment": "justify",
+                  "nodeLineHeight": null,
+                  "style": "",
+                  "nodeInterParagraph": null,
+                  "dir": null,
+                  "ignoreBidiAutoUpdate": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Se define como cualquier característica de la actividad laboral que pueda tener una influencia significativa en la generación de riesgos para la seguridad y la salud del trabajador. Esta definición abarca las características generales de las instalaciones, equipos y productos, los agentes ambientales (físicos, químicos y biológicos), los procedimientos operativos y todos los factores vinculados a la organización del trabajo."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "Color": "rgba(60, 61, 65, 1)",
+      "FontSize": "18px",
+      "FontFamily": "Archivo",
+      "Classes": [],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.6",
+      "LetterSpacing": "0",
+      "InterParagraph": "medium",
+      "VerticalAlign": "top",
+      "DisplayHtmlAs": "content",
+      "IsAIGenerated": false,
+      "BigZIndex": 4
+    },
+    {
+      "Id": "77d74f4a-fd28-4042-b80c-8a6d5825aa6f",
+      "IdSlide": "469dbea1-d332-48b5-8c38-4754f78af47b",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 5,
+      "Position": {
+        "PositionLeft": "173.20457329196014px",
+        "PositionTop": "130.76504706559436px"
+      },
+      "Size": {
+        "Width": "406.5475905711774px",
+        "Height": "97px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "fade-in-bottom",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel2",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "Lorem ip...",
+      "ReadingOrder": 5,
+      "BrandStyle": "title_1",
+      "TextMessage": "<div><span style=\"font-weight: bold; color: rgb(60, 61, 65);\">Lorem ipsum dolor</span></div>",
+      "Content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "nodeIndent": null,
+              "nodeTextAlignment": "center",
+              "nodeLineHeight": null,
+              "style": "",
+              "nodeInterParagraph": null,
+              "dir": null,
+              "ignoreBidiAutoUpdate": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bold"
+                  },
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(60, 61, 65)"
+                    }
+                  }
+                ],
+                "text": "Condiciones de Trabajo"
+              }
+            ]
+          }
+        ]
+      },
+      "Color": "rgba(60, 61, 65, 1)",
+      "FontSize": "42px",
+      "FontFamily": "Archivo",
+      "Classes": [],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.15",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "VerticalAlign": "top",
+      "DisplayHtmlAs": "title_1",
+      "IsAIGenerated": false,
+      "BigZIndex": 5
+    },
+    {
+      "Id": "65e2be06-63dd-4e3e-8f31-bbaf7ff93e7c",
+      "IdSlide": "469dbea1-d332-48b5-8c38-4754f78af47b",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 6,
+      "Position": {
+        "PositionLeft": "173.20303962928307px",
+        "PositionTop": "532.3049370792303px"
+      },
+      "Size": {
+        "Width": "407.8096515650867px",
+        "Height": "58px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "fade-in-bottom",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel2",
+      "DurationOut": "vel3",
+      "DelayIn": "0.6",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "saLjlAJ1fkEpOkUQO0npv"
+      },
+      "Name": "Lorem ip...",
+      "ReadingOrder": 6,
+      "BrandStyle": "content",
+      "TextMessage": "<div><span style=\"text-decoration-line: underline; color: rgb(82, 95, 255); font-style: italic;\">Lorem ipsum dolor sit</span></div>",
+      "Content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "nodeIndent": null,
+              "nodeTextAlignment": null,
+              "nodeLineHeight": null,
+              "style": "",
+              "nodeInterParagraph": null,
+              "dir": null,
+              "ignoreBidiAutoUpdate": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  },
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(82, 95, 255)"
+                    }
+                  },
+                  {
+                    "type": "underline"
+                  }
+                ],
+                "text": "Fuente: INSST: Concepto de Condiciones de Trabajo (PDF)"
+              }
+            ]
+          }
+        ]
+      },
+      "Color": "rgba(60, 61, 65, 1)",
+      "FontSize": "18px",
+      "FontFamily": "Archivo",
+      "Classes": [],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.6",
+      "LetterSpacing": "0",
+      "InterParagraph": "medium",
+      "VerticalAlign": "top",
+      "DisplayHtmlAs": "content",
+      "IsAIGenerated": false,
+      "BigZIndex": 6
+    },
+    {
+      "Id": "ec1718d4-a06e-4175-97c7-9c50fd8f1b85",
+      "IdSlide": "469dbea1-d332-48b5-8c38-4754f78af47b",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 7,
+      "Position": {
+        "PositionLeft": "619.5031771351667px",
+        "PositionTop": "442.8049370792303px"
+      },
+      "Size": {
+        "Width": "407.45071156522636px",
+        "Height": "124.92px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "fade-in-bottom",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel2",
+      "DurationOut": "vel3",
+      "DelayIn": "0.4",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "Lorem ip...",
+      "ReadingOrder": 11,
+      "BrandStyle": "content",
+      "TextMessage": "<div><span style=\"color: rgb(60, 61, 65);\"><span style=\"font-weight: normal;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed </span><span style=\"font-weight: bold;\">do eiusmod tempor</span> incididunt ut labore et dolore magna aliqua.</span></div><div><span style=\"color: rgb(60, 61, 65);\"><span style=\"font-weight: bold;\">Lorem ipsum dolo</span><span style=\"font-weight: normal;\">r sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</span></span></div><div><span style=\"color: rgb(60, 61, 65);\"><span style=\"font-weight: normal;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do </span><span style=\"font-weight: bold;\">eiusmod tempor incididunt</span>.</span></div>",
+      "Content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "scrollText",
+            "attrs": {
+              "height": 6.94
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "nodeIndent": null,
+                  "nodeTextAlignment": "left",
+                  "nodeLineHeight": null,
+                  "style": "",
+                  "nodeInterParagraph": null,
+                  "dir": null,
+                  "ignoreBidiAutoUpdate": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Ejemplo:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Iluminación deficiente o vibración continua en una línea de montaje."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "Color": "rgba(60, 61, 65, 1)",
+      "FontSize": "18px",
+      "FontFamily": "Archivo",
+      "Classes": [],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.6",
+      "LetterSpacing": "0",
+      "InterParagraph": "medium",
+      "VerticalAlign": "top",
+      "DisplayHtmlAs": "content",
+      "IsAIGenerated": false,
+      "BigZIndex": 7
+    },
+    {
+      "Id": "89f3387f-f4b8-445e-ad8f-3b1669a3c483",
+      "IdSlide": "7841cecc-b606-4647-9566-349cd6764e14",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 4,
+      "Position": {
+        "PositionLeft": "173.20457329196017px",
+        "PositionTop": "260.74937801014323px"
+      },
+      "Size": {
+        "Width": "407.45071156522636px",
+        "Height": "173px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "fade-in-bottom",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel2",
+      "DurationOut": "vel3",
+      "DelayIn": "0.4",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "Lorem ip...",
+      "ReadingOrder": 4,
+      "BrandStyle": "content",
+      "TextMessage": "<div><span style=\"color: rgb(60, 61, 65);\"><span style=\"font-weight: normal;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed </span><span style=\"font-weight: bold;\">do eiusmod tempor</span> incididunt ut labore et dolore magna aliqua.</span></div><div><span style=\"color: rgb(60, 61, 65);\"><span style=\"font-weight: bold;\">Lorem ipsum dolo</span><span style=\"font-weight: normal;\">r sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</span></span></div><div><span style=\"color: rgb(60, 61, 65);\"><span style=\"font-weight: normal;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do </span><span style=\"font-weight: bold;\">eiusmod tempor incididunt</span>.</span></div>",
+      "Content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "nodeIndent": null,
+              "nodeTextAlignment": null,
+              "nodeLineHeight": null,
+              "style": "",
+              "nodeInterParagraph": null,
+              "dir": null,
+              "ignoreBidiAutoUpdate": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(60, 61, 65)"
+                    }
+                  }
+                ],
+                "text": "Es la estructura integrada en la que interaccionan de forma conjunta las funciones de uno o varios operadores humanos y una máquina de un entorno específico. Se enfoca en optimizar el desempeño y funcionamiento global de esa interacción para cumplir una tarea o función determinada."
+              }
+            ]
+          }
+        ]
+      },
+      "Color": "rgba(60, 61, 65, 1)",
+      "FontSize": "18px",
+      "FontFamily": "Archivo",
+      "Classes": [],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.6",
+      "LetterSpacing": "0",
+      "InterParagraph": "medium",
+      "VerticalAlign": "top",
+      "DisplayHtmlAs": "content",
+      "IsAIGenerated": false,
+      "BigZIndex": 4
+    },
+    {
+      "Id": "e9ada6e1-bcd3-47e6-8ae7-7c9c8598bb88",
+      "IdSlide": "7841cecc-b606-4647-9566-349cd6764e14",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 5,
+      "Position": {
+        "PositionLeft": "173.20457329196014px",
+        "PositionTop": "130.76504706559436px"
+      },
+      "Size": {
+        "Width": "406.5475905711774px",
+        "Height": "97px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "fade-in-bottom",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel2",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "Lorem ip...",
+      "ReadingOrder": 5,
+      "BrandStyle": "title_1",
+      "TextMessage": "<div><span style=\"font-weight: bold; color: rgb(60, 61, 65);\">Lorem ipsum dolor</span></div>",
+      "Content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "nodeIndent": null,
+              "nodeTextAlignment": "center",
+              "nodeLineHeight": null,
+              "style": "",
+              "nodeInterParagraph": null,
+              "dir": null,
+              "ignoreBidiAutoUpdate": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bold"
+                  },
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(60, 61, 65)"
+                    }
+                  }
+                ],
+                "text": "Sistema Hombre-Máquina"
+              }
+            ]
+          }
+        ]
+      },
+      "Color": "rgba(60, 61, 65, 1)",
+      "FontSize": "42px",
+      "FontFamily": "Archivo",
+      "Classes": [],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.15",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "VerticalAlign": "top",
+      "DisplayHtmlAs": "title_1",
+      "IsAIGenerated": false,
+      "BigZIndex": 5
+    },
+    {
+      "Id": "419934a6-2ecc-4f3e-986d-d6d8fc50954c",
+      "IdSlide": "7841cecc-b606-4647-9566-349cd6764e14",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 6,
+      "Position": {
+        "PositionLeft": "173.20303962928307px",
+        "PositionTop": "532.3049370792303px"
+      },
+      "Size": {
+        "Width": "407.8096515650867px",
+        "Height": "58px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "fade-in-bottom",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel2",
+      "DurationOut": "vel3",
+      "DelayIn": "0.6",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "-gvMtH8eDuTGTQWmTqNkn"
+      },
+      "Name": "Lorem ip...",
+      "ReadingOrder": 6,
+      "BrandStyle": "content",
+      "TextMessage": "<div><span style=\"text-decoration-line: underline; color: rgb(82, 95, 255); font-style: italic;\">Lorem ipsum dolor sit</span></div>",
+      "Content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "nodeIndent": null,
+              "nodeTextAlignment": null,
+              "nodeLineHeight": null,
+              "style": "",
+              "nodeInterParagraph": null,
+              "dir": null,
+              "ignoreBidiAutoUpdate": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  },
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(82, 95, 255)"
+                    }
+                  },
+                  {
+                    "type": "underline"
+                  }
+                ],
+                "text": "Sistema hombre-máquina - Wikipedia, la enciclopedia libre"
+              }
+            ]
+          }
+        ]
+      },
+      "Color": "rgba(60, 61, 65, 1)",
+      "FontSize": "18px",
+      "FontFamily": "Archivo",
+      "Classes": [],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.6",
+      "LetterSpacing": "0",
+      "InterParagraph": "medium",
+      "VerticalAlign": "top",
+      "DisplayHtmlAs": "content",
+      "IsAIGenerated": false,
+      "BigZIndex": 6
+    },
+    {
+      "Id": "06c3148a-d839-4c71-9598-91a5e85fdaee",
+      "IdSlide": "7841cecc-b606-4647-9566-349cd6764e14",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 7,
+      "Position": {
+        "PositionLeft": "623.2045732919602px",
+        "PositionTop": "414.74937801014323px"
+      },
+      "Size": {
+        "Width": "407.45071156522636px",
+        "Height": "115px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "fade-in-bottom",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel2",
+      "DurationOut": "vel3",
+      "DelayIn": "0.4",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "Lorem ip...",
+      "ReadingOrder": 11,
+      "BrandStyle": "content",
+      "TextMessage": "<div><span style=\"color: rgb(60, 61, 65);\"><span style=\"font-weight: normal;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed </span><span style=\"font-weight: bold;\">do eiusmod tempor</span> incididunt ut labore et dolore magna aliqua.</span></div><div><span style=\"color: rgb(60, 61, 65);\"><span style=\"font-weight: bold;\">Lorem ipsum dolo</span><span style=\"font-weight: normal;\">r sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</span></span></div><div><span style=\"color: rgb(60, 61, 65);\"><span style=\"font-weight: normal;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do </span><span style=\"font-weight: bold;\">eiusmod tempor incididunt</span>.</span></div>",
+      "Content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "nodeIndent": null,
+              "nodeTextAlignment": null,
+              "nodeLineHeight": null,
+              "style": "",
+              "nodeInterParagraph": null,
+              "dir": null,
+              "ignoreBidiAutoUpdate": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bold"
+                  },
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(60, 61, 65)"
+                    }
+                  }
+                ],
+                "text": "Ejemplo:"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(60, 61, 65)"
+                    }
+                  }
+                ],
+                "text": " "
+              },
+              {
+                "type": "hardBreak",
+                "marks": [
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(60, 61, 65)"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "hardBreak",
+                "marks": [
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(60, 61, 65)"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(60, 61, 65)"
+                    }
+                  }
+                ],
+                "text": "Un técnico programando y supervisando un brazo robótico de soldadura."
+              }
+            ]
+          }
+        ]
+      },
+      "Color": "rgba(60, 61, 65, 1)",
+      "FontSize": "18px",
+      "FontFamily": "Archivo",
+      "Classes": [],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.6",
+      "LetterSpacing": "0",
+      "InterParagraph": "medium",
+      "VerticalAlign": "top",
+      "DisplayHtmlAs": "content",
+      "IsAIGenerated": false,
+      "BigZIndex": 7
+    },
+    {
+      "Id": "3306aa72-fa14-4c0a-86d4-2502a9ff042a",
+      "IdSlide": "947ceae5-f4a3-4a75-aab7-db11817336ce",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 4,
+      "Position": {
+        "PositionLeft": "173.20457329196017px",
+        "PositionTop": "260.74937801014323px"
+      },
+      "Size": {
+        "Width": "407.45071156522636px",
+        "Height": "230px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "fade-in-bottom",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel2",
+      "DurationOut": "vel3",
+      "DelayIn": "0.4",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "Lorem ip...",
+      "ReadingOrder": 4,
+      "BrandStyle": "content",
+      "TextMessage": "<div><span style=\"color: rgb(60, 61, 65);\"><span style=\"font-weight: normal;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed </span><span style=\"font-weight: bold;\">do eiusmod tempor</span> incididunt ut labore et dolore magna aliqua.</span></div><div><span style=\"color: rgb(60, 61, 65);\"><span style=\"font-weight: bold;\">Lorem ipsum dolo</span><span style=\"font-weight: normal;\">r sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</span></span></div><div><span style=\"color: rgb(60, 61, 65);\"><span style=\"font-weight: normal;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do </span><span style=\"font-weight: bold;\">eiusmod tempor incididunt</span>.</span></div>",
+      "Content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "nodeIndent": null,
+              "nodeTextAlignment": null,
+              "nodeLineHeight": null,
+              "style": "",
+              "nodeInterParagraph": null,
+              "dir": null,
+              "ignoreBidiAutoUpdate": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(60, 61, 65)"
+                    }
+                  }
+                ],
+                "text": "Son un conjunto de lesiones, alteraciones o síntomas inflamatorios y degenerativos que afectan a los músculos, tendones, nervios, ligamentos y articulaciones. De carácter predominantemente acumulativo, son causados o agravados por el trabajo y la exposición a factores de riesgo ergonómico como posturas forzadas, movimientos repetitivos y manipulación de cargas. "
+              }
+            ]
+          }
+        ]
+      },
+      "Color": "rgba(60, 61, 65, 1)",
+      "FontSize": "18px",
+      "FontFamily": "Archivo",
+      "Classes": [],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.6",
+      "LetterSpacing": "0",
+      "InterParagraph": "medium",
+      "VerticalAlign": "top",
+      "DisplayHtmlAs": "content",
+      "IsAIGenerated": false,
+      "BigZIndex": 4
+    },
+    {
+      "Id": "38e9c044-b188-4172-89b2-49068f3ced34",
+      "IdSlide": "947ceae5-f4a3-4a75-aab7-db11817336ce",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 5,
+      "Position": {
+        "PositionLeft": "155.52618171153253px",
+        "PositionTop": "130.76504706559436px"
+      },
+      "Size": {
+        "Width": "432.26159957055535px",
+        "Height": "97px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "fade-in-bottom",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel2",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "Lorem ip...",
+      "ReadingOrder": 5,
+      "BrandStyle": "title_1",
+      "TextMessage": "<div><span style=\"font-weight: bold; color: rgb(60, 61, 65);\">Lorem ipsum dolor</span></div>",
+      "Content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "nodeIndent": null,
+              "nodeTextAlignment": "center",
+              "nodeLineHeight": null,
+              "style": "",
+              "nodeInterParagraph": null,
+              "dir": null,
+              "ignoreBidiAutoUpdate": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bold"
+                  },
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(60, 61, 65)"
+                    }
+                  }
+                ],
+                "text": "Trastornos Musculoesqueléticos"
+              }
+            ]
+          }
+        ]
+      },
+      "Color": "rgba(60, 61, 65, 1)",
+      "FontSize": "42px",
+      "FontFamily": "Archivo",
+      "Classes": [],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.15",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "VerticalAlign": "top",
+      "DisplayHtmlAs": "title_1",
+      "IsAIGenerated": false,
+      "BigZIndex": 5
+    },
+    {
+      "Id": "6a5b43e4-df3a-4574-8f3f-94fa8984477d",
+      "IdSlide": "947ceae5-f4a3-4a75-aab7-db11817336ce",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 6,
+      "Position": {
+        "PositionLeft": "173.20303962928307px",
+        "PositionTop": "532.3049370792303px"
+      },
+      "Size": {
+        "Width": "407.8096515650867px",
+        "Height": "29px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "fade-in-bottom",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel2",
+      "DurationOut": "vel3",
+      "DelayIn": "0.6",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "cB3X2OrmV54ht8BNk_BkO"
+      },
+      "Name": "Lorem ip...",
+      "ReadingOrder": 6,
+      "BrandStyle": "content",
+      "TextMessage": "<div><span style=\"text-decoration-line: underline; color: rgb(82, 95, 255); font-style: italic;\">Lorem ipsum dolor sit</span></div>",
+      "Content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "nodeIndent": null,
+              "nodeTextAlignment": null,
+              "nodeLineHeight": null,
+              "style": "",
+              "nodeInterParagraph": null,
+              "dir": null,
+              "ignoreBidiAutoUpdate": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  },
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(82, 95, 255)"
+                    }
+                  },
+                  {
+                    "type": "underline"
+                  }
+                ],
+                "text": " Manual de Prevención de TME"
+              }
+            ]
+          }
+        ]
+      },
+      "Color": "rgba(60, 61, 65, 1)",
+      "FontSize": "18px",
+      "FontFamily": "Archivo",
+      "Classes": [],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.6",
+      "LetterSpacing": "0",
+      "InterParagraph": "medium",
+      "VerticalAlign": "top",
+      "DisplayHtmlAs": "content",
+      "IsAIGenerated": false,
+      "BigZIndex": 6
+    },
+    {
+      "Id": "2ba31aa9-54e2-4af1-bafe-41af337d2c37",
+      "IdSlide": "947ceae5-f4a3-4a75-aab7-db11817336ce",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 7,
+      "Position": {
+        "PositionLeft": "621.5970811625714px",
+        "PositionTop": "422.74937801014323px"
+      },
+      "Size": {
+        "Width": "409.05819823442573px",
+        "Height": "115px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "fade-in-bottom",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel2",
+      "DurationOut": "vel3",
+      "DelayIn": "0.4",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "Lorem ip...",
+      "ReadingOrder": 11,
+      "BrandStyle": "content",
+      "TextMessage": "<div><span style=\"color: rgb(60, 61, 65);\"><span style=\"font-weight: normal;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed </span><span style=\"font-weight: bold;\">do eiusmod tempor</span> incididunt ut labore et dolore magna aliqua.</span></div><div><span style=\"color: rgb(60, 61, 65);\"><span style=\"font-weight: bold;\">Lorem ipsum dolo</span><span style=\"font-weight: normal;\">r sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</span></span></div><div><span style=\"color: rgb(60, 61, 65);\"><span style=\"font-weight: normal;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do </span><span style=\"font-weight: bold;\">eiusmod tempor incididunt</span>.</span></div>",
+      "Content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "nodeIndent": null,
+              "nodeTextAlignment": null,
+              "nodeLineHeight": null,
+              "style": "",
+              "nodeInterParagraph": null,
+              "dir": null,
+              "ignoreBidiAutoUpdate": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bold"
+                  },
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(60, 61, 65)"
+                    }
+                  }
+                ],
+                "text": "Ejemplo:"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(60, 61, 65)"
+                    }
+                  }
+                ],
+                "text": " "
+              },
+              {
+                "type": "hardBreak",
+                "marks": [
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(60, 61, 65)"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "hardBreak",
+                "marks": [
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(60, 61, 65)"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(60, 61, 65)"
+                    }
+                  }
+                ],
+                "text": "Síndrome del túnel carpiano por digitación repetitiva o lumbalgia por carga de peso."
+              }
+            ]
+          }
+        ]
+      },
+      "Color": "rgba(60, 61, 65, 1)",
+      "FontSize": "18px",
+      "FontFamily": "Archivo",
+      "Classes": [],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.6",
+      "LetterSpacing": "0",
+      "InterParagraph": "medium",
+      "VerticalAlign": "top",
+      "DisplayHtmlAs": "content",
+      "IsAIGenerated": false,
+      "BigZIndex": 7
+    },
+    {
+      "Id": "436b8022-89ff-4ddc-8939-f8fcc6fef592",
+      "IdSlide": "a7e813d1-01b1-4880-9841-6eb91fb6551a",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 4,
+      "Position": {
+        "PositionLeft": "173.20457329196017px",
+        "PositionTop": "229.74937801014323px"
+      },
+      "Size": {
+        "Width": "407.45071156522636px",
+        "Height": "259px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "fade-in-bottom",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel2",
+      "DurationOut": "vel3",
+      "DelayIn": "0.4",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "Lorem ip...",
+      "ReadingOrder": 4,
+      "BrandStyle": "content",
+      "TextMessage": "<div><span style=\"color: rgb(60, 61, 65);\"><span style=\"font-weight: normal;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed </span><span style=\"font-weight: bold;\">do eiusmod tempor</span> incididunt ut labore et dolore magna aliqua.</span></div><div><span style=\"color: rgb(60, 61, 65);\"><span style=\"font-weight: bold;\">Lorem ipsum dolo</span><span style=\"font-weight: normal;\">r sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</span></span></div><div><span style=\"color: rgb(60, 61, 65);\"><span style=\"font-weight: normal;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do </span><span style=\"font-weight: bold;\">eiusmod tempor incididunt</span>.</span></div>",
+      "Content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "nodeIndent": null,
+              "nodeTextAlignment": "justify",
+              "nodeLineHeight": null,
+              "style": "",
+              "nodeInterParagraph": null,
+              "dir": null,
+              "ignoreBidiAutoUpdate": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(60, 61, 65)"
+                    }
+                  }
+                ],
+                "text": "Es el proceso de concebir y configurar el espacio de trabajo, el mobiliario, los equipos, las herramientas, las tareas y la organización laboral para adaptarlos a las características físicas, sensoriales y cognitivas de los usuarios. Su objetivo principal es actuar en el origen de los riesgos laborales para prevenir la fatiga y los trastornos musculoesqueléticos, promoviendo la eficiencia, el confort y la seguridad."
+              }
+            ]
+          }
+        ]
+      },
+      "Color": "rgba(60, 61, 65, 1)",
+      "FontSize": "18px",
+      "FontFamily": "Archivo",
+      "Classes": [],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.6",
+      "LetterSpacing": "0",
+      "InterParagraph": "medium",
+      "VerticalAlign": "top",
+      "DisplayHtmlAs": "content",
+      "IsAIGenerated": false,
+      "BigZIndex": 4
+    },
+    {
+      "Id": "1ed4d7be-8ff4-4e3f-b7c3-0f88ad43df8f",
+      "IdSlide": "a7e813d1-01b1-4880-9841-6eb91fb6551a",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 5,
+      "Position": {
+        "PositionLeft": "173.20457329196014px",
+        "PositionTop": "172.76504706559436px"
+      },
+      "Size": {
+        "Width": "406.5475905711774px",
+        "Height": "48px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "fade-in-bottom",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel2",
+      "DurationOut": "vel3",
+      "DelayIn": "0",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "Lorem ip...",
+      "ReadingOrder": 5,
+      "BrandStyle": "title_1",
+      "TextMessage": "<div><span style=\"font-weight: bold; color: rgb(60, 61, 65);\">Lorem ipsum dolor</span></div>",
+      "Content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "nodeIndent": null,
+              "nodeTextAlignment": "center",
+              "nodeLineHeight": null,
+              "style": "",
+              "nodeInterParagraph": null,
+              "dir": null,
+              "ignoreBidiAutoUpdate": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bold"
+                  },
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(60, 61, 65)"
+                    }
+                  }
+                ],
+                "text": "Diseño Ergonómico"
+              }
+            ]
+          }
+        ]
+      },
+      "Color": "rgba(60, 61, 65, 1)",
+      "FontSize": "42px",
+      "FontFamily": "Archivo",
+      "Classes": [],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.15",
+      "LetterSpacing": "0",
+      "InterParagraph": "small",
+      "VerticalAlign": "top",
+      "DisplayHtmlAs": "title_1",
+      "IsAIGenerated": false,
+      "BigZIndex": 5
+    },
+    {
+      "Id": "620f8b1d-5522-4e4d-8d14-bbdf3040a001",
+      "IdSlide": "a7e813d1-01b1-4880-9841-6eb91fb6551a",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 6,
+      "Position": {
+        "PositionLeft": "173.20303962928307px",
+        "PositionTop": "532.3049370792303px"
+      },
+      "Size": {
+        "Width": "407.8096515650867px",
+        "Height": "58px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "fade-in-bottom",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel2",
+      "DurationOut": "vel3",
+      "DelayIn": "0.6",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {
+        "click": "sh9th03rWfRU03ZQeng3o"
+      },
+      "Name": "Lorem ip...",
+      "ReadingOrder": 6,
+      "BrandStyle": "content",
+      "TextMessage": "<div><span style=\"text-decoration-line: underline; color: rgb(82, 95, 255); font-style: italic;\">Lorem ipsum dolor sit</span></div>",
+      "Content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "nodeIndent": null,
+              "nodeTextAlignment": null,
+              "nodeLineHeight": null,
+              "style": "",
+              "nodeInterParagraph": null,
+              "dir": null,
+              "ignoreBidiAutoUpdate": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  },
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(82, 95, 255)"
+                    }
+                  },
+                  {
+                    "type": "underline"
+                  }
+                ],
+                "text": "Diseño ergonómico del puesto de trabajo: principios y normas"
+              }
+            ]
+          }
+        ]
+      },
+      "Color": "rgba(60, 61, 65, 1)",
+      "FontSize": "18px",
+      "FontFamily": "Archivo",
+      "Classes": [],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.6",
+      "LetterSpacing": "0",
+      "InterParagraph": "medium",
+      "VerticalAlign": "top",
+      "DisplayHtmlAs": "content",
+      "IsAIGenerated": false,
+      "BigZIndex": 6
+    },
+    {
+      "Id": "94089dfd-d3d8-4dd8-ba92-133d54e5a340",
+      "IdSlide": "a7e813d1-01b1-4880-9841-6eb91fb6551a",
+      "IsHidden": false,
+      "Blocked": false,
+      "LayerTitle": null,
+      "IdGroup": null,
+      "ZIndex": 7,
+      "Position": {
+        "PositionLeft": "658.2077493211332px",
+        "PositionTop": "431.8049370792302px"
+      },
+      "Size": {
+        "Width": "407.45071156522636px",
+        "Height": "115px"
+      },
+      "Rotation": {
+        "Rotatione": "rotate(0deg)"
+      },
+      "Effect": "none",
+      "EffectIn": "fade-in-bottom",
+      "EffectOut": "none",
+      "EffectHover": "none",
+      "EffectClick": "none",
+      "DurationIn": "vel2",
+      "DurationOut": "vel3",
+      "DelayIn": "0.4",
+      "DelayOut": "0",
+      "hoverProps": {},
+      "clickProps": {},
+      "Opacity": "1",
+      "BlendMode": "normal",
+      "IsDraggable": false,
+      "interactivities": {},
+      "Name": "Lorem ip...",
+      "ReadingOrder": 11,
+      "BrandStyle": "content",
+      "TextMessage": "<div><span style=\"color: rgb(60, 61, 65);\"><span style=\"font-weight: normal;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed </span><span style=\"font-weight: bold;\">do eiusmod tempor</span> incididunt ut labore et dolore magna aliqua.</span></div><div><span style=\"color: rgb(60, 61, 65);\"><span style=\"font-weight: bold;\">Lorem ipsum dolo</span><span style=\"font-weight: normal;\">r sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</span></span></div><div><span style=\"color: rgb(60, 61, 65);\"><span style=\"font-weight: normal;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do </span><span style=\"font-weight: bold;\">eiusmod tempor incididunt</span>.</span></div>",
+      "Content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "nodeIndent": null,
+              "nodeTextAlignment": "left",
+              "nodeLineHeight": null,
+              "style": "",
+              "nodeInterParagraph": null,
+              "dir": null,
+              "ignoreBidiAutoUpdate": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bold"
+                  },
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(60, 61, 65)"
+                    }
+                  }
+                ],
+                "text": "Ejemplo:"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(60, 61, 65)"
+                    }
+                  }
+                ],
+                "text": " "
+              },
+              {
+                "type": "hardBreak",
+                "marks": [
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(60, 61, 65)"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "hardBreak",
+                "marks": [
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(60, 61, 65)"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textColor",
+                    "attrs": {
+                      "color": "rgb(60, 61, 65)"
+                    }
+                  }
+                ],
+                "text": "Silla de oficina con soporte lumbar y altura regulable según la estatura del trabajador."
+              }
+            ]
+          }
+        ]
+      },
+      "Color": "rgba(60, 61, 65, 1)",
+      "FontSize": "18px",
+      "FontFamily": "Archivo",
+      "Classes": [],
+      "Background": "",
+      "Padding": "0px",
+      "Shadow": "",
+      "Version": 6,
+      "LineHeight": "1.6",
+      "LetterSpacing": "0",
+      "InterParagraph": "medium",
+      "VerticalAlign": "top",
+      "DisplayHtmlAs": "content",
+      "IsAIGenerated": false,
+      "BigZIndex": 7
+    }
+  ],
+  "Audios": [],
+  "Videos": [],
+  "DocumentConfig": {
+    "colors": {
+      "Primary": null,
+      "Secondary": null,
+      "Tertiary": null
+    }
+  },
+  "interactivityActions": {
+    "EqIquTgCs-l1YMcRAemPz": {
+      "refId": "u86eXivNpjLQkeZYYbzsu",
+      "type": "closeSlidePopup"
+    },
+    "saLjlAJ1fkEpOkUQO0npv": {
+      "refId": "yJxpAVa04gDDm67VA5PG0",
+      "type": "openLink",
+      "link": "https://www.insst.es/documents/94886/4154780/Tema+1.+Concepto+de+Condiciones+de+Trabajo.pdf",
+      "linkTarget": "_blank"
+    },
+    "IQUzzc9owEcjCd0OTFRwR": {
+      "refId": "prw6LjLjxsOlT0s1CnsRN",
+      "type": "zoom"
+    },
+    "JRwwIZu-UvQrKhB5zsj2F": {
+      "refId": "XJvXy5iMAa-PJhFmqGL6s",
+      "type": "closeSlidePopup"
+    },
+    "sh9th03rWfRU03ZQeng3o": {
+      "refId": "GbU6jL5rzjtgso0Y2x230",
+      "type": "openLink",
+      "link": "https://www.sabentis.com/explora/diseno-ergonomico-del-puesto-de-trabajo/",
+      "linkTarget": "_blank"
+    },
+    "R-qtnnDFgrKsGF0jwaFVZ": {
+      "refId": "E-RlHoyW9Qh9fl8xSuc0z",
+      "type": "zoom"
+    },
+    "HVzBK4KT93QfFdEtsQMNa": {
+      "refId": "5ZeJDEuxsQaccxx_IfZ5P",
+      "type": "openLink",
+      "link": "https://static.vecteezy.com/system/resources/thumbnails/010/366/556/small_2x/workplace-safety-set-vector.jpg",
+      "linkTarget": "_blank"
+    },
+    "s_NeutgWSZhvxWCyv31eI": {
+      "refId": "5s45YJEX-z-GnOBRgS-Ry",
+      "type": "openLink",
+      "link": "https://iororwxhmkpklj5p.leadongcdn.com/cloud/lmBpnKmklrSRilnjlmoqiq/Ergonomic-office-chair-design.png",
+      "linkTarget": "_blank"
+    },
+    "nHOUQdqyhFUR6eE0l5Fhc": {
+      "refId": "oViMxVIdhG0oTulvohqyB",
+      "type": "zoom"
+    },
+    "yrvcIJy0poNTuJTxJPOm_": {
+      "refId": "8MP8tPZcGxHyhXXTpeFhJ",
+      "type": "closeSlidePopup"
+    },
+    "vndNWCkEnY454EgU9TuN-": {
+      "refId": "Or9MRu81R77gz8XMGuh9L",
+      "type": "openLink",
+      "link": "https://aceautomation.eu/es/definicion-interfaz-hombre-maquina-ihm/",
+      "linkTarget": "_blank"
+    },
+    "2GH_pE_qcGoCxilcEmWhc": {
+      "refId": "rsVbB5TS6WBnF3-0awbNL",
+      "type": "openLink",
+      "link": "https://images.tcdn.com.br/img/img_prod/618764/clp_controle_logico_programavel_e_inversor_de_frequencia_20_1_20180506180709.jpg",
+      "linkTarget": "_blank"
+    },
+    "hzBzQHMbi-vci3o0A0qCX": {
+      "refId": "SuNQIT9tDSak7KP6V9r_v",
+      "type": "zoom"
+    },
+    "BE7l1XQ-62IgqQhFBApln": {
+      "refId": "2M_d5Zdm7kfakycLvX2-E",
+      "type": "closeSlidePopup"
+    },
+    "EKvvzQlZkc6X_aSjIQGPX": {
+      "refId": "MMPTz8Pc3baLxYo3i4fpZ",
+      "type": "zoom"
+    },
+    "JxoSqJEb-nkiJB-Fi3w2_": {
+      "refId": "_F1oG4uQgVQG7hG4ZsV-D",
+      "type": "closeSlidePopup"
+    },
+    "9kV1JRas3QChYISYkD1JT": {
+      "refId": "VIFXoSh6EqURtve4atKoS",
+      "type": "openLink",
+      "link": "https://media.istockphoto.com/id/1364717462/photo/engineer-teaching-robot.jpg",
+      "linkTarget": "_blank"
+    },
+    "-gvMtH8eDuTGTQWmTqNkn": {
+      "refId": "HJ-vhvaeWYK7hzAcWC3aE",
+      "type": "openLink",
+      "link": "https://es.wikipedia.org/wiki/Sistema_hombre-m%C3%A1quina",
+      "linkTarget": "_blank"
+    },
+    "cB3X2OrmV54ht8BNk_BkO": {
+      "refId": "-VNlZ3fNzox6XhvLc8lzs",
+      "type": "openLink",
+      "link": "https://saludlaboralmadridugt.org/wp-content/uploads/2023/03/manual_tme_2020_def.pdf",
+      "linkTarget": "_blank"
+    },
+    "9yGRmtoIlicOUY3GHYFdE": {
+      "refId": "uEQkadyJ-5JbHPKR4Kt9L",
+      "type": "openLink",
+      "link": "https://cgtandalucia.org/wp-content/uploads/elementor/thumbs/3363-trastornos-musculoesqueleticos-q1gq034qdrsp3o3klb97enofu38pkcfcux1nk7v1fk.jpg",
+      "linkTarget": "_blank"
+    },
+    "bNFJ1sM0yz3aM2Xt-0Pmz": {
+      "refId": "L2EWrBRGSUd62IErO-kbG",
+      "type": "slidePopup",
+      "targetSlideId": "a7e813d1-01b1-4880-9841-6eb91fb6551a"
+    },
+    "fBYSg9oEtSogSMb1YceN8": {
+      "refId": "e9Ic1NjYEbMUo44DMMkLL",
+      "type": "slidePopup",
+      "targetSlideId": "1b6b2ca8-f14b-49f3-932f-2a2af8511ccc"
+    },
+    "4mQmsgv3-ZZuPMTGDMn5m": {
+      "refId": "8NOXd5X1Hr7ku0ZC2tGg9",
+      "type": "slidePopup",
+      "targetSlideId": "469dbea1-d332-48b5-8c38-4754f78af47b"
+    },
+    "i4juRVzuRFu3QIKUHWPCk": {
+      "refId": "HgtGdlMzp_TF_gxk_1YRw",
+      "type": "slidePopup",
+      "targetSlideId": "7841cecc-b606-4647-9566-349cd6764e14"
+    },
+    "zWgpfGQPmPwhYuO8tkE1h": {
+      "refId": "gcl5AowDJahgwOwkj1hrX",
+      "type": "slidePopup",
+      "targetSlideId": "947ceae5-f4a3-4a75-aab7-db11817336ce"
+    }
+  },
+  "version": 24,
+  "fixes": [
+    "ORPHAN_ITEMS",
+    "CLEAN_HTML_INTERACTIVITIES",
+    "AUDIOS_BASE64_23_11_22",
+    "BACKGROUND_AUDIOS_25_01_2023",
+    "THUMBNAILS_OF_WIDGET_VIDEO",
+    "LAYER_TITLE_NAME",
+    "URLS_OF_WIDGET_VIDEO",
+    "TEXTS_BASE64"
+  ],
+  "config": {
+    "grid": {
+      "column": {
+        "count": 3,
+        "gap": 40
+      },
+      "row": {
+        "count": 1,
+        "gap": 40
+      },
+      "color": "#30DFE6",
+      "margin": {
+        "top": 60,
+        "bottom": 60,
+        "left": 60,
+        "right": 60
+      },
+      "isEdited": false
+    },
+    "guidesColor": "#6c29ff"
+  },
+  "svgRefs": {
+    "svg/SourceSvg;WWtdOXFvn+wWgLvXyOCp8oVU7t6TVrVMmHCoFLdhmhM=": "<div class=\"rounded-shading-rectangle-form\">\n  <svg width=\"100%\" height=\"100%\" xml:space=\"preserve\">\n    <rect class=\"color1\" width=\"100%\" height=\"100%\" style=\"fill:#C0C2CC\" >\n    </rect>\n  </svg>\n</div>\n    \n<style>\n  \n.rounded-shading-rectangle-form {\n  overflow:hidden;\n  border-radius:10px;\n  width:100%;\n  height:100%;\n  box-shadow:rgba(0, 0, 0, 0.25) 3px 4px 18px; \n}\n  \n</style>",
+    "svg/SourceSvg;Gm/T2i8vxrbKzyzPDfYq0frsLEk4xz+l/1gBDtf8JN0=": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 437.5 437.5\">\n\t<circle class=\"color1 circle-link\" cx=\"218.75\" cy=\"218.75\" r=\"175\"/>\n\t<path class=\"color2\" style=\"fill:#ffffff; pointer-events:none;\" d=\"M208.38,239.5a10.38,10.38,0,0,1-7.34-3C184,219.41,184,197.36,201,180.3l20.75-20.75c17.06-17.06,39.1-17.06,56.16,0s17.07,39.1,0,56.16A10.37,10.37,0,0,1,263.28,201c13.42-13.41,3.31-23.5,0-26.82s-13.42-13.38-26.82,0L215.71,195c-13.41,13.41-3.31,23.5,0,26.82a10.38,10.38,0,0,1-7.33,17.71Zm-20.75,51.25c-9.77,0-19.55-4.27-28.08-12.79-17.07-17.07-17.07-39.11,0-56.16a10.37,10.37,0,0,1,14.67,14.66c-13.42,13.42-3.31,23.5,0,26.83s13.42,13.4,26.82,0l20.75-20.75c13.41-13.41,3.31-23.51,0-26.82a10.37,10.37,0,1,1,14.67-14.67c17.06,17,17.06,39.1,0,56.16L215.71,278C207.18,286.48,197.4,290.75,187.63,290.75Z\"/>\n</svg>\n\n<style>\n\n.circle-link {\n  fill:#525FFF;\n  transform-origin: 50% 50%;\n  transition: transform 0.4s cubic-bezier(.4,0,.2,1);\n}\n\n.circle-link:hover {\n  transform:scale(1.25);\n  transform-origin: 50% 50%;\n  transition: transform 0.4s cubic-bezier(.4,0,.2,1);\n}\n\n.circle-link:active {\n  transform:scale(0.9);\n  transform-origin: 50% 50%;\n  transition: all 0.1s;\n}\n\n</style>",
+    "svg/SourceSvg;u/tVKnMmSW9Fn4f7VJA4HxI4AiwVg3envEF25sKLRQI=": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 437.5 437.5\">\n\t<circle class=\"color1 circle-cancel\" cx=\"218.75\" cy=\"218.75\" r=\"175\"/>\n\t<path class=\"color2\" style=\"fill:#ffffff; pointer-events:none;\" d=\"M255.12,167.84,218.75,204.2l-36.37-36.36a10.28,10.28,0,0,0-14.54,14.54l36.36,36.37-36.36,36.37a10.28,10.28,0,0,0,14.54,14.54l36.37-36.36,36.37,36.36a10.28,10.28,0,0,0,14.54-14.54L233.3,218.75l36.36-36.37a10.28,10.28,0,0,0-14.54-14.54\"/>\n</svg>\n\n<style>\n\n.circle-cancel {\n  fill:#525FFF;\n  transform-origin: 50% 50%;\n  transition: transform 0.4s cubic-bezier(.4,0,.2,1);\n}\n\n.circle-cancel:hover {\n  transform:scale(1.25);\n  transform-origin: 50% 50%;\n  transition: transform 0.4s cubic-bezier(.4,0,.2,1);\n}\n\n.circle-cancel:active {\n  transform:scale(0.9);\n  transform-origin: 50% 50%;\n  transition: all 0.1s;\n}\n\n</style>"
+  },
+  "collaborativeVersion": {
+    "saved": [
+      557,
+      "v1THKPFYLqQLlxOyin974"
+    ],
+    "live": [
+      557,
+      "v1THKPFYLqQLlxOyin974"
+    ]
+  },
+  "Genially": {
+    "DateDisabled": null,
+    "Id": "6b0797247b83b74928b76ac1",
+    "Name": "Glosario de Ergonomía",
+    "ImageRender": "https://genially-thumbnails.genially.com/6b0797247b83b74928b76ac1.png?ts=1795723623463",
+    "TypeSubscription": 1,
+    "FriendlyUrl": "https://view.genially.com/6b0797247b83b74928b76ac1/interactive-content-glosario-de-ergonomia",
+    "IdUser": "6614108cd3d8b9001f8cda7e",
+    "Description": "Explora qué se considera una condición de trabajo y cómo sus características pueden influir en los riesgos para la seguridad y la salud laboral.",
+    "UrlPro": "https://view.genially.com/6b0797247b83b74928b76ac1",
+    "HasGeniallyAnalytics": false,
+    "Reusable": false,
+    "IdTeam": "6abfcbb1462df1097921eab3",
+    "IdSpace": "6abfcbb1462df1097921eae4",
+    "IsOwnerAChild": null,
+    "IsCreatedByStudent": false,
+    "SkipTeamDomainRestrictions": null,
+    "SelectedLogoId": "6abfcbb1462df1097921eacb",
+    "IsPresentationRecording": false,
+    "Public": true,
+    "Published": true,
+    "WatermarkLink": "https://genially.com",
+    "CustomLogo": null,
+    "CustomLogoPosition": null,
+    "IdAnalytics": null,
+    "CustomWatermark": null,
+    "SizeWatermark": "medium",
+    "PrivacyStatus": "Public",
+    "HasPassword": false,
+    "SettingGenially": {
+      "Weave": null,
+      "WeaveBackgroundEffect": null,
+      "WeaveBackgroundLayer": null,
+      "WeaveBackgroundAnimationPaused": null,
+      "ShowPage": true,
+      "TooltTipStyle": "light",
+      "FullScreen": true,
+      "DisableTitles": false,
+      "AutoPagination": false,
+      "BucleAutoPagination": false,
+      "TimePagination": 5,
+      "DisableShare": false,
+      "Interactivity": false,
+      "IsPaintable": false,
+      "IsDraggable": false,
+      "HideLogo": false,
+      "IgnoreGlobalBranding": false,
+      "ShowLoader": true,
+      "ShowWatermark": true,
+      "LoadMobile": false,
+      "ShowDraggableIndicator": true,
+      "AutoHighlightInteractiveItems": false,
+      "AutoHighlightDraggableItems": false,
+      "IsTrackable": false,
+      "ShowZoom": false,
+      "InteractiveQuestionsSettings": {
+        "ShowResultsSummary": false,
+        "ResultsSummaryType": null,
+        "ResponseAction": null,
+        "SettingsPreset": null,
+        "IndividualResultsSummarySettings": {}
+      },
+      "AliasModalSettings": {
+        "Title": null,
+        "Placeholder": null,
+        "DesignType": null,
+        "InputType": null,
+        "FullScreen": false,
+        "AliasGenerator": false,
+        "FontFamily": null,
+        "BackgroundColor": null,
+        "TextColor": null,
+        "PrimaryColor": null,
+        "Description": null,
+        "ButtonText": null,
+        "ButtonTextColor": null,
+        "AliasGeneratorText": null
+      },
+      "Responsive": false,
+      "ViewerLanguage": "pending",
+      "ViewerLanguageContent": null
+    }
+  },
+  "tasks": {
+    "xEsDuUnjlFbFexbmBmSMr": {
+      "value": "https://img.genially.com/6614108cd3d8b9001f8cda7e/e3efbe8f-6b8b-47f3-bd77-0fc085548d9e.png",
+      "finished": true
+    },
+    "3gVQmC-TwKoMe8yN60soI": {
+      "value": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "finished": true
+    },
+    "rqGrOMjyKFnh9qAAN0rGx": {
+      "value": "https://img.genially.com/6614108cd3d8b9001f8cda7e/c935f2b6-83a9-481f-9e2e-b95d22e0aa58.jpeg",
+      "finished": true
+    },
+    "doxjzdrYxBvQCj4WREN2Q": {
+      "value": {
+        "top": -17.755851032591167,
+        "bottom": -17.755851032591167,
+        "left": 0,
+        "right": 0
+      },
+      "finished": true
+    },
+    "R_P8e_5B4qN1z6bi_NZ90": {
+      "value": "https://img.genially.com/6614108cd3d8b9001f8cda7e/6ce9fcbc-9f1b-4118-98e5-bab74f455a10.jpeg",
+      "finished": true
+    },
+    "1AWdFFvGXw_1O6jIabo3c": {
+      "value": {
+        "top": 0,
+        "bottom": 0,
+        "left": -7.028441857565987,
+        "right": -7.028441857565987
+      },
+      "finished": true
+    },
+    "H1F_TiFrNSUiMaZNIyqZL": {
+      "value": "https://img.genially.com/6614108cd3d8b9001f8cda7e/fea2a2e7-4a17-4327-bd8a-afe86ad8981e.jpeg",
+      "finished": true
+    },
+    "5NqFzu7MtRTaHdlLTk0j_": {
+      "value": {
+        "top": 0,
+        "bottom": 0,
+        "left": -1.3109374039796895,
+        "right": -1.3109374039796895
+      },
+      "finished": true
+    },
+    "kMr6nW3i0RjQVOPCEa-tt": {
+      "value": "https://img.genially.com/6614108cd3d8b9001f8cda7e/85ed1a05-4770-462b-ac01-7d01911bbbea.jpeg",
+      "finished": true
+    },
+    "4JgxzABKqHBeWj5xD6XsB": {
+      "value": {
+        "top": -4.950250664525308,
+        "bottom": -4.950250664525308,
+        "left": 0,
+        "right": 0
+      },
+      "finished": true
+    },
+    "eZ2H5X4YfUr0X0SUTwfX6": {
+      "value": "https://img.genially.com/6614108cd3d8b9001f8cda7e/9f116981-3e45-45fe-afcd-23ca3ca2a74e.png",
+      "finished": true
+    },
+    "GepQLLMgmuEv9FKzmuFxN": {
+      "value": {
+        "top": -7.370809206297643,
+        "bottom": -7.370809206297643,
+        "left": 0,
+        "right": 0
+      },
+      "finished": true
+    }
+  }
+}
